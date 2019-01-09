@@ -1,0 +1,2145 @@
+#BeginOfDocument ENG_NW_001278_20130212_F00011Q6T
+s1	ENG_NW_001278_20130212_F00011Q6T	2__28	636,640	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130212_F00011Q6T	2__34	679,686	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130212_F00011Q6T	4__6	1071,1079	replaces	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130212_F00011Q6T	4__38	1255,1259	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130212_F00011Q6T	7__14	1654,1666	cross-border	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130212_F00011Q6T	8__8	1805,1814	explosion	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130212_F00011Q6T	9__18	2067,2072	sworn	Personnel_Start-Position	Actual
+s1	ENG_NW_001278_20130212_F00011Q6T	9__23	2084,2091	protest	Conflict_Demonstrate	Actual
+@Coreference	C112	4__38,2__28
+@Coreference	C113	2,4
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130425_F00011XR0
+s1	ENG_NW_001278_20130425_F00011XR0	1__29	296,301	slams	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	1__49	401,408	slammed	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	2__17	623,632	protester	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	2__20	646,653	slapped	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	2__31	720,728	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	4__4	883,888	asked	Contact_Contact	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	4__25	998,1004	beaten	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	4__26	1005,1007	up	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130425_F00011XR0	4__37	1061,1069	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	4__40	1079,1083	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	4__42	1088,1093	death	Life_Die	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	5__7	1148,1158	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	7__26	1389,1394	asked	Contact_Meet	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	8__11	1473,1480	slapped	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	8__14	1489,1498	protester	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	8__29	1573,1582	assaulted	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130425_F00011XR0	9__2	1608,1611	say	Contact_Contact	Generic
+s1	ENG_NW_001278_20130425_F00011XR0	9__28	1744,1750	report	Contact_Broadcast	Other
+s1	ENG_NW_001278_20130425_F00011XR0	9__33	1775,1783	assaults	Conflict_Attack	Other
+@Coreference	C114	1__49,1__29
+@Coreference	C115	8__14,2__17
+@Coreference	C116	8,2
+@Coreference	C117	7__26,4__4
+@Coreference	C118	4,7
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131025.0125
+s1	NYT_ENG_20131025.0125	1__32	404,413	delivered	Movement_Transport-Artifact	Actual
+s1	NYT_ENG_20131025.0125	1__34	418,425	keynote	Contact_Broadcast	Actual
+s1	NYT_ENG_20131025.0125	1__35	426,432	speech	Contact_Broadcast	Actual
+s1	NYT_ENG_20131025.0125	2__47	768,776	declared	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	3__26	915,919	told	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	4__26	1107,1111	said	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	5__3	1135,1139	said	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	5__15	1201,1213	announcement	Contact_Broadcast	Actual
+s1	NYT_ENG_20131025.0125	5__20	1233,1239	speech	Contact_Broadcast	Actual
+s1	NYT_ENG_20131025.0125	6__40	1484,1489	joked	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	8__59	1853,1857	told	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	8__62	1868,1875	meeting	Contact_Meet	Actual
+s1	NYT_ENG_20131025.0125	8__69	1909,1917	received	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20131025.0125	10__13	2312,2316	said	Contact_Contact	Actual
+s1	NYT_ENG_20131025.0125	10__42	2457,2466	testified	Contact_Meet	Actual
+s1	NYT_ENG_20131025.0125	11__19	2615,2628	contributions	Transaction_Transfer-Money	Actual
+@Coreference	C120	1,5
+@Coreference	C121	3__26,8__59
+@Coreference	C122	8,3
+@Coreference	C119	5__20,1__35
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130829_F00013HNH
+s1	ENG_NW_001278_20130829_F00013HNH	2__6	517,521	sold	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130829_F00013HNH	2__34	652,662	complained	Contact_Contact	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	3__22	878,887	purchases	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	4__9	1024,1031	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	6__35	1470,1479	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	6__38	1490,1497	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	9__15	1875,1884	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	9__28	1951,1955	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	10__6	2032,2039	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	10__21	2111,2116	fight	Conflict_Attack	Other
+s1	ENG_NW_001278_20130829_F00013HNH	10__40	2225,2231	visits	Contact_Meet	Generic
+s1	ENG_NW_001278_20130829_F00013HNH	10__42	2236,2244	meetings	Contact_Meet	Generic
+s1	ENG_NW_001278_20130829_F00013HNH	12__2	2405,2409	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130829_F00013HNH	13__12	2571,2575	said	Contact_Contact	Actual
+@Coreference	C123	6__38,10__42,4__9
+@Coreference	C124	10,4,6
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130627_F00013H43
+s1	ENG_NW_001278_20130627_F00013H43	1__4	104,112	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130627_F00013H43	1__12	155,163	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__2	207,215	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__10	258,266	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__12	271,279	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__20	322,330	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__38	398,406	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__49	467,475	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__52	482,486	sent	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__54	490,494	jail	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__56	503,508	trial	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130627_F00013H43	2__64	542,550	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130627_F00013H43	3__8	591,595	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130627_F00013H43	3__15	634,642	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	3__28	719,728	attacking	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130627_F00013H43	4__2	751,759	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	4__26	888,902	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	5__1	962,969	Clashes	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130627_F00013H43	5__5	989,999	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130627_F00013H43	5__10	1024,1030	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130627_F00013H43	5__21	1080,1087	injured	Life_Injure	Actual
+@Coreference	C125	2__10,2__20,3__15,4__2,1__12,2__49
+@Coreference	C126	2__12,1__4,2__2
+@Coreference	C127	1,3,4
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130728_F00011RSA
+s1	ENG_NW_001278_20130728_F00011RSA	1__3	101,106	Death	Life_Die	Generic
+s1	ENG_NW_001278_20130728_F00011RSA	1__14	197,202	Death	Life_Die	Generic
+s1	ENG_NW_001278_20130728_F00011RSA	1__41	328,336	injuries	Life_Injure	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	1__47	367,371	died	Life_Die	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	2__2	388,393	death	Life_Die	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	4__30	836,844	reported	Contact_Contact	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	4__43	914,923	traveling	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	5__7	1026,1033	custody	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	5__12	1053,1060	testify	Contact_Meet	Other
+s1	ENG_NW_001278_20130728_F00011RSA	5__23	1123,1128	crash	Life_Die	Actual
+s1	ENG_NW_001278_20130728_F00011RSA	6__8	1200,1204	paid	Transaction_Transfer-Money	Actual
+@Coreference	C128	1__14,2__2,1__47,1__3
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130520.0177
+s1	NYT_ENG_20130520.0177	1__5	200,204	SAID	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	1__9	223,230	SUICIDE	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	1__28	364,368	died	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	1__35	397,405	suicides	Life_Die	Generic
+s1	NYT_ENG_20130520.0177	1__49	477,481	says	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	2__8	615,628	manufacturing	Manufacture_Artifact	Generic
+s1	NYT_ENG_20130520.0177	2__10	633,641	assembly	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130520.0177	3__3	778,787	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130520.0177	3__7	804,808	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130520.0177	3__12	826,832	deaths	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	3__16	848,860	work-related	Life_Injure	Actual
+s1	NYT_ENG_20130520.0177	4__4	928,932	said	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	5__4	1008,1012	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130520.0177	5__7	1021,1027	jumped	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130520.0177	5__10	1037,1043	deaths	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	6__28	1213,1225	work-related	Life_Injure	Generic
+s1	NYT_ENG_20130520.0177	7__21	1349,1356	suicide	Life_Die	Generic
+s1	NYT_ENG_20130520.0177	7__46	1467,1471	said	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	8__12	1543,1549	deaths	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	8__15	1560,1564	said	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	8__27	1631,1635	said	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	9__3	1708,1715	suicide	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	10__13	1879,1883	said	Contact_Contact	Actual
+s1	NYT_ENG_20130520.0177	10__17	1894,1901	release	Contact_Broadcast	Actual
+s1	NYT_ENG_20130520.0177	11__14	2040,2052	conversation	Contact_Correspondence	Generic
+s1	NYT_ENG_20130520.0177	12__14	2143,2151	suicides	Life_Die	Actual
+s1	NYT_ENG_20130520.0177	13__21	2350,2358	suicides	Life_Die	Actual
+@Coreference	C129	1__49,3__7
+@Coreference	C130	1__9,9__3,1__35,7__21
+@Coreference	C131	1,3,5,7,6,9,8
+@Coreference	C132	5__10,8__12,3__12
+@Coreference	C133	3__16,6__28
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131015.0131
+s1	NYT_ENG_20131015.0131	1__2	178,183	HIRES	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131015.0131	3__6	376,385	announced	Contact_Broadcast	Actual
+s1	NYT_ENG_20131015.0131	3__10	402,407	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131015.0131	4__3	550,554	said	Contact_Contact	Actual
+s1	NYT_ENG_20131015.0131	7__7	918,923	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131015.0131	7__12	941,947	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20131015.0131	7__31	1042,1051	reporting	Contact_Contact	Actual
+s1	NYT_ENG_20131015.0131	9__6	1203,1208	trade	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20131015.0131	10__12	1353,1358	bring	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131015.0131	10__20	1387,1394	revenue	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20131015.0131	11__9	1468,1473	fired	Conflict_Attack	Actual
+s1	NYT_ENG_20131015.0131	13__8	1706,1712	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20131015.0131	13__16	1750,1754	left	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131015.0131	15__21	1994,1998	said	Contact_Contact	Actual
+s1	NYT_ENG_20131015.0131	15__24	2004,2013	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20131015.0131	18__9	2349,2356	joining	Personnel_Start-Position	Other
+s1	NYT_ENG_20131015.0131	18__18	2383,2392	statement	Contact_Broadcast	Actual
+@Coreference	C136	7__12,13__8
+@Coreference	C137	13,7
+@Coreference	C134	3__10,1__2
+@Coreference	C135	1,3
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130729_F00012PW1
+s1	ENG_NW_001278_20130729_F00012PW1	1__8	129,137	returned	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	1__18	221,229	returned	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	1__36	315,319	died	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	1__40	331,336	crash	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	1__45	359,363	sent	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	2__6	457,464	boarded	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	2__8	467,473	flight	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	2__20	543,550	arrived	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	2__31	616,625	traveling	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	3__8	706,710	went	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	3__13	738,745	Funeral	Contact_Meet	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	3__33	867,874	arrival	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	4__4	899,907	funerals	Contact_Meet	Generic
+s1	ENG_NW_001278_20130729_F00012PW1	4__14	954,958	date	Contact_Meet	Other
+s1	ENG_NW_001278_20130729_F00012PW1	4__20	981,985	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	5__11	1045,1052	crashed	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	6__2	1107,1112	crash	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	6__3	1113,1119	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	7__4	1212,1216	died	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00012PW1	7__15	1278,1286	injuries	Life_Injure	Actual
+@Coreference	C138	2__31,1__8,2__20,2__8,1__18,1__45
+@Coreference	C139	5__11,1__40,6__2
+@Coreference	C140	1,5,6
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131007_F00012641
+s1	ENG_NW_001278_20131007_F00012641	1__43	402,410	attacked	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	1__63	519,525	arrest	Justice_Arrest-Jail	Other
+s1	ENG_NW_001278_20131007_F00012641	1__75	579,585	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	2__2	602,606	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	2__10	640,645	ferry	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20131007_F00012641	3__26	917,923	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	3__35	971,975	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131007_F00012641	3__39	987,996	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131007_F00012641	4__2	1026,1030	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	5__4	1237,1241	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	5__21	1327,1333	seized	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20131007_F00012641	5__27	1361,1367	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	6__7	1399,1408	purchased	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20131007_F00012641	7__24	1605,1609	paid	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131007_F00012641	7__30	1637,1645	purchase	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20131007_F00012641	7__43	1693,1699	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	7__50	1729,1735	killed	Life_Die	Actual
+s1	ENG_NW_001278_20131007_F00012641	8__20	1848,1856	entering	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20131007_F00012641	12__7	2278,2286	attacked	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	13__10	2399,2405	attack	Conflict_Attack	Other
+s1	ENG_NW_001278_20131007_F00012641	14__2	2446,2450	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	14__19	2533,2537	sold	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131007_F00012641	15__4	2641,2645	gave	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131007_F00012641	15__14	2685,2690	buyer	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20131007_F00012641	16__17	2786,2794	storming	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131007_F00012641	17__6	2877,2881	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	17__22	2962,2970	captured	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20131007_F00012641	18__6	3032,3040	attacked	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	19__27	3245,3249	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	20__5	3300,3309	confirmed	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	20__27	3432,3441	strolling	Contact_Meet	Actual
+s1	ENG_NW_001278_20131007_F00012641	21__3	3506,3510	died	Life_Die	Actual
+s1	ENG_NW_001278_20131007_F00012641	21__24	3627,3631	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	22__8	3683,3687	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131007_F00012641	22__12	3706,3713	stepped	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131007_F00012641	23__5	3881,3887	warned	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131007_F00012641	23__25	3996,4006	gatherings	Contact_Meet	Generic
+s1	ENG_NW_001278_20131007_F00012641	23__41	4085,4092	attacks	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	24__2	4101,4105	sent	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131007_F00012641	24__7	4129,4135	battle	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	24__15	4184,4191	attacks	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	24__19	4207,4217	kidnapping	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131007_F00012641	24__31	4268,4275	killing	Life_Die	Actual
+s1	ENG_NW_001278_20131007_F00012641	24__36	4293,4300	damaged	Conflict_Attack	Actual
+@Coreference	C141	1__75,7__43,18__6,3__26,13__10,12__7,24__15,1__43,23__41,5__27
+@Coreference	C143	3__39,4__2,2__2,3__35,5__4
+@Coreference	C145	24,13,12,23,18,3,2,5,4,7,6
+@Coreference	C146	6__7,7__30
+@Coreference	C147	24__31,7__50
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130613.0034
+s1	NYT_ENG_20130613.0034	1__23	327,330	pay	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130613.0034	1__33	378,384	deadly	Life_Die	Generic
+s1	NYT_ENG_20130613.0034	2__21	584,589	wrote	Contact_Broadcast	Actual
+s1	NYT_ENG_20130613.0034	2__24	595,601	letter	Contact_Correspondence	Actual
+s1	NYT_ENG_20130613.0034	3__2	637,643	called	Contact_Broadcast	Actual
+s1	NYT_ENG_20130613.0034	3__17	698,705	deliver	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20130613.0034	3__18	706,716	assistance	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130613.0034	4__4	767,773	killed	Life_Die	Actual
+s1	NYT_ENG_20130613.0034	4__8	784,791	injured	Life_Injure	Actual
+s1	NYT_ENG_20130613.0034	4__15	826,833	damaged	Life_Injure	Actual
+s1	NYT_ENG_20130613.0034	4__20	850,855	blast	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	5__5	915,919	said	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	8__24	1227,1236	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130613.0034	9__5	1282,1292	assistance	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130613.0034	12__9	1682,1690	requests	Contact_Contact	Other
+s1	NYT_ENG_20130613.0034	13__8	1736,1743	request	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	13__23	1827,1835	requests	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	13__29	1865,1874	destroyed	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	14__14	1963,1967	said	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	16__10	2171,2178	request	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	16__19	2220,2229	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	17__7	2322,2325	met	Contact_Meet	Actual
+s1	NYT_ENG_20130613.0034	17__21	2406,2414	provided	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130613.0034	20__19	2731,2735	told	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	22__21	2904,2909	leave	Movement_Transport-Person	Other
+s1	NYT_ENG_20130613.0034	23__2	2968,2972	said	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	24__20	3127,3137	assistance	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130613.0034	24__32	3187,3196	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130613.0034	25__7	3243,3248	noted	Contact_Broadcast	Actual
+s1	NYT_ENG_20130613.0034	28__9	3536,3544	requests	Contact_Contact	Other
+s1	NYT_ENG_20130613.0034	29__2	3571,3580	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	31__13	3885,3892	damaged	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	32__9	3985,3994	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	32__27	4094,4098	said	Contact_Contact	Actual
+s1	NYT_ENG_20130613.0034	35__6	4305,4314	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20130613.0034	36__3	4387,4396	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130613.0034	36__11	4425,4429	said	Contact_Broadcast	Actual
+@Coreference	C148	13__23,16__10,13__8,28__9,12__9
+@Coreference	C149	13,12,16,32,28,29,35
+@Coreference	C150	32__9,16__19,29__2,35__6
+@Coreference	C151	1__33,4__4
+@Coreference	C152	1,4
+@Coreference	C153	9__5,3__18
+@Coreference	C154	9,3
+@Coreference	C155	31__13,4__15,4__8
+@Coreference	C156	24__32,8__24
+@Coreference	C157	24,8
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130417_F00012BAB
+s1	ENG_NW_001278_20130417_F00012BAB	1__4	109,118	announces	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	1__16	220,229	announces	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	1__54	450,454	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	2__7	502,510	conflict	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	2__15	547,552	death	Life_Die	Generic
+s1	ENG_NW_001278_20130417_F00012BAB	3__22	776,781	visit	Contact_Meet	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	3__46	897,903	stated	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	3__50	915,922	release	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	5__2	1201,1213	announcement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130417_F00012BAB	5__10	1263,1270	funding	Transaction_Transfer-Money	Generic
+@Coreference	C158	1__4,1__16
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131218_F00012DLT
+s1	ENG_NW_001278_20131218_F00012DLT	1__58	444,447	aid	Transaction_Transaction	Other
+s1	ENG_NW_001278_20131218_F00012DLT	2__17	573,576	met	Contact_Meet	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	2__37	709,716	funding	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20131218_F00012DLT	3__3	724,732	conflict	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	3__14	783,791	uprooted	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	3__24	847,856	consigned	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	3__37	916,920	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	6__2	1309,1313	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	7__12	1582,1590	violence	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131218_F00012DLT	7__16	1611,1619	fighting	Conflict_Attack	Generic
+s1	ENG_NW_001278_20131218_F00012DLT	8__22	1805,1814	displaced	Movement_Transport-Person	Actual
+@Coreference	C160	3,7
+@Coreference	C159	3__3,7__16
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130603.0030
+s1	NYT_ENG_20130603.0030	1__6	197,203	MURDER	Life_Die	Actual
+s1	NYT_ENG_20130603.0030	1__16	271,278	hacking	Conflict_Attack	Actual
+s1	NYT_ENG_20130603.0030	1__22	310,315	death	Life_Die	Other
+s1	NYT_ENG_20130603.0030	1__35	384,392	hearings	Contact_Meet	Actual
+s1	NYT_ENG_20130603.0030	1__41	426,430	meet	Contact_Meet	Other
+s1	NYT_ENG_20130603.0030	1__48	466,473	discuss	Contact_Meet	Other
+s1	NYT_ENG_20130603.0030	2__21	678,684	murder	Life_Die	Generic
+s1	NYT_ENG_20130603.0030	2__27	707,712	death	Life_Die	Actual
+s1	NYT_ENG_20130603.0030	3__5	867,874	killing	Life_Die	Actual
+s1	NYT_ENG_20130603.0030	3__10	895,899	shot	Conflict_Attack	Actual
+s1	NYT_ENG_20130603.0030	3__12	904,911	wounded	Life_Injure	Actual
+s1	NYT_ENG_20130603.0030	4__6	968,974	murder	Life_Die	Actual
+s1	NYT_ENG_20130603.0030	5__12	1131,1137	murder	Conflict_Attack	Actual
+s1	NYT_ENG_20130603.0030	6__3	1254,1258	said	Contact_Contact	Actual
+s1	NYT_ENG_20130603.0030	6__13	1311,1323	manufactured	Manufacture_Artifact	Generic
+s1	NYT_ENG_20130603.0030	7__17	1481,1485	blew	Conflict_Attack	Actual
+s1	NYT_ENG_20130603.0030	8__4	1553,1560	pointed	Contact_Contact	Actual
+s1	NYT_ENG_20130603.0030	9__15	1656,1660	told	Contact_Meet	Actual
+s1	NYT_ENG_20130603.0030	9__18	1670,1676	return	Movement_Transport-Person	Other
+s1	NYT_ENG_20130603.0030	9__22	1695,1702	hearing	Contact_Meet	Other
+s1	NYT_ENG_20130603.0030	10__8	1795,1802	reports	Contact_Broadcast	Actual
+s1	NYT_ENG_20130603.0030	10__9	1803,1807	said	Contact_Contact	Actual
+s1	NYT_ENG_20130603.0030	11__28	1988,1994	killed	Life_Die	Actual
+s1	NYT_ENG_20130603.0030	11__36	2028,2036	returned	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130603.0030	12__6	2148,2157	protested	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130603.0030	12__9	2163,2170	violent	Conflict_Attack	Generic
+s1	NYT_ENG_20130603.0030	12__10	2171,2178	clashes	Conflict_Attack	Actual
+s1	NYT_ENG_20130603.0030	12__11	2179,2184	broke	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130603.0030	14__5	2435,2443	arrested	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130603.0030	14__17	2505,2511	fights	Conflict_Attack	Actual
+@Coreference	C163	1__6,2__27,2__21,5__12,4__6,1__16,3__5,3__10,1__22
+@Coreference	C164	1__48,1__41
+@Coreference	C165	1,5,4
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130510.0155
+s1	NYT_ENG_20130510.0155	1__8	215,220	LEAVE	Movement_Transport-Person	Other
+s1	NYT_ENG_20130510.0155	1__16	289,298	expulsion	Personnel_End-Position	Other
+s1	NYT_ENG_20130510.0155	1__31	370,379	elections	Personnel_Elect	Generic
+s1	NYT_ENG_20130510.0155	1__35	395,399	said	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	2__5	431,440	protested	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130510.0155	2__12	469,482	reinstatement	Personnel_End-Position	Other
+s1	NYT_ENG_20130510.0155	3__8	534,543	expulsion	Personnel_End-Position	Other
+s1	NYT_ENG_20130510.0155	3__17	590,596	letter	Contact_Correspondence	Actual
+s1	NYT_ENG_20130510.0155	5__7	846,851	leave	Movement_Transport-Person	Other
+s1	NYT_ENG_20130510.0155	6__16	957,966	elections	Personnel_Elect	Generic
+s1	NYT_ENG_20130510.0155	7__13	1033,1039	worked	Personnel_End-Position	Actual
+s1	NYT_ENG_20130510.0155	8__3	1125,1130	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20130510.0155	8__12	1168,1175	written	Contact_Correspondence	Actual
+s1	NYT_ENG_20130510.0155	8__38	1345,1352	attacks	Conflict_Attack	Actual
+s1	NYT_ENG_20130510.0155	9__3	1425,1431	letter	Contact_Correspondence	Actual
+s1	NYT_ENG_20130510.0155	9__5	1435,1442	protest	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130510.0155	9__26	1552,1561	expressed	Contact_Broadcast	Actual
+s1	NYT_ENG_20130510.0155	9__32	1587,1597	describing	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	10__2	1719,1724	asked	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	12__2	1947,1951	said	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	12__10	1995,2003	delivery	Contact_Broadcast	Actual
+s1	NYT_ENG_20130510.0155	13__7	2049,2054	visit	Contact_Meet	Actual
+s1	NYT_ENG_20130510.0155	13__12	2076,2080	said	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	13__16	2090,2098	received	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130510.0155	13__19	2107,2111	call	Contact_Correspondence	Actual
+s1	NYT_ENG_20130510.0155	13__24	2140,2148	advising	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	14__2	2179,2186	arrived	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130510.0155	15__4	2293,2299	handed	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130510.0155	15__7	2308,2314	letter	Contact_Correspondence	Actual
+s1	NYT_ENG_20130510.0155	15__9	2319,2324	asked	Contact_Contact	Actual
+s1	NYT_ENG_20130510.0155	16__5	2368,2374	letter	Contact_Correspondence	Actual
+@Coreference	C166	3__8,1__16
+@Coreference	C167	6__16,1__31
+@Coreference	C168	2__12,1__8,5__7
+@Coreference	C169	15,1,3,2,5,6,9
+@Coreference	C170	9__5,2__5
+@Coreference	C171	3__17,15__7,9__3
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130925.0184
+s1	NYT_ENG_20130925.0184	1__3	185,191	ATTACK	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	7__2	796,802	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	7__8	830,840	dispatched	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130925.0184	8__7	994,1000	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	8__31	1126,1129	say	Contact_Broadcast	Actual
+s1	NYT_ENG_20130925.0184	9__17	1210,1217	fleeing	Movement_Transport-Person	Generic
+s1	NYT_ENG_20130925.0184	9__21	1238,1246	killings	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	10__12	1336,1344	massacre	Life_Die	Actual
+s1	NYT_ENG_20130925.0184	10__19	1373,1379	killed	Life_Die	Actual
+s1	NYT_ENG_20130925.0184	11__24	1546,1555	declaring	Contact_Contact	Actual
+s1	NYT_ENG_20130925.0184	11__37	1620,1626	killed	Life_Die	Actual
+s1	NYT_ENG_20130925.0184	12__6	1754,1761	reports	Contact_Broadcast	Actual
+s1	NYT_ENG_20130925.0184	12__26	1861,1865	said	Contact_Contact	Actual
+s1	NYT_ENG_20130925.0184	13__3	1926,1930	said	Contact_Contact	Actual
+s1	NYT_ENG_20130925.0184	13__34	2093,2101	massacre	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	14__15	2221,2225	said	Contact_Contact	Actual
+s1	NYT_ENG_20130925.0184	14__32	2320,2325	speak	Contact_Broadcast	Other
+s1	NYT_ENG_20130925.0184	15__10	2371,2379	shooters	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	15__11	2380,2386	walked	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130925.0184	17__40	2732,2739	killing	Life_Die	Other
+s1	NYT_ENG_20130925.0184	18__8	2903,2910	slipped	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130925.0184	18__18	2952,2958	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130925.0184	18__20	2960,2968	dropping	Movement_Transport-Person	Other
+s1	NYT_ENG_20130925.0184	20__5	3118,3122	said	Contact_Contact	Actual
+@Coreference	C172	18__18,7__2,1__3,8__7
+@Coreference	C173	1,18,7,8
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130824_F000133W7
+s1	ENG_NW_001278_20130824_F000133W7	1__11	148,156	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F000133W7	1__24	258,266	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F000133W7	1__54	418,426	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F000133W7	1__59	442,450	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F000133W7	2__2	573,579	nabbed	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130824_F000133W7	3__6	707,715	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F000133W7	3__16	759,766	brought	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130824_F000133W7	3__22	790,794	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130824_F000133W7	5__7	948,958	assaulters	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130824_F000133W7	7__2	1110,1118	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F000133W7	7__14	1182,1190	gangrape	Conflict_Demonstrate	Generic
+s1	ENG_NW_001278_20130824_F000133W7	7__16	1195,1202	killing	Life_Die	Actual
+s1	ENG_NW_001278_20130824_F000133W7	8__3	1287,1295	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F000133W7	8__16	1361,1367	beaten	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130824_F000133W7	8__20	1378,1385	rapists	Conflict_Attack	Generic
+@Coreference	C174	7__2,1__59,1__11,7__14,1__24,8__3
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130529_F00012WA9
+s1	ENG_NW_001278_20130529_F00012WA9	1__5	108,113	elect	Personnel_Elect	Other
+s1	ENG_NW_001278_20130529_F00012WA9	1__12	177,182	elect	Personnel_Elect	Other
+s1	ENG_NW_001278_20130529_F00012WA9	1__37	295,300	elect	Personnel_Elect	Other
+s1	ENG_NW_001278_20130529_F00012WA9	1__51	362,369	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130529_F00012WA9	3__15	542,551	announced	Contact_Broadcast	Other
+s1	ENG_NW_001278_20130529_F00012WA9	4__10	621,629	election	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130529_F00012WA9	4__14	645,652	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130529_F00012WA9	4__16	654,660	saying	Contact_Contact	Actual
+s1	ENG_NW_001278_20130529_F00012WA9	5__4	738,745	elected	Personnel_Elect	Actual
+@Coreference	C176	1__51,4__14
+@Coreference	C177	1,4
+@Coreference	C175	1__5,1__37,1__12
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131108.0148
+s1	NYT_ENG_20131108.0148	1__2	178,186	EXCHANGE	Transaction_Transaction	Generic
+s1	NYT_ENG_20131108.0148	2__3	313,321	purchase	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20131108.0148	3__19	498,501	pay	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131108.0148	3__31	567,575	Exchange	Transaction_Transaction	Generic
+s1	NYT_ENG_20131108.0148	3__33	580,588	released	Contact_Broadcast	Actual
+s1	NYT_ENG_20131108.0148	3__48	682,689	traders	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20131108.0148	4__7	770,773	buy	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20131108.0148	4__12	798,808	complained	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	5__14	1124,1128	rent	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20131108.0148	6__11	1195,1201	buyers	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20131108.0148	7__27	1367,1371	sold	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20131108.0148	9__2	1672,1680	exchange	Contact_Correspondence	Actual
+s1	NYT_ENG_20131108.0148	9__18	1765,1769	said	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	10__31	2061,2069	exchange	Transaction_Transaction	Generic
+s1	NYT_ENG_20131108.0148	10__36	2089,2093	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131108.0148	12__9	2279,2287	exchange	Transaction_Transaction	Actual
+s1	NYT_ENG_20131108.0148	12__14	2314,2322	charging	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131108.0148	12__15	2323,2327	rent	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20131108.0148	12__18	2339,2347	delivery	Movement_Transport-Artifact	Generic
+s1	NYT_ENG_20131108.0148	13__4	2371,2375	said	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	13__7	2386,2396	suggestion	Contact_Contact	Other
+s1	NYT_ENG_20131108.0148	13__19	2459,2463	fees	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131108.0148	13__23	2472,2480	exchange	Transaction_Transaction	Other
+s1	NYT_ENG_20131108.0148	14__11	2633,2637	said	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	14__20	2684,2691	address	Contact_Broadcast	Other
+s1	NYT_ENG_20131108.0148	15__13	2774,2778	said	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	16__23	2932,2938	return	Movement_Transport-Person	Other
+s1	NYT_ENG_20131108.0148	16__43	3046,3050	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131108.0148	16__46	3056,3065	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20131108.0148	18__9	3249,3253	said	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	21__4	3731,3738	hearing	Contact_Meet	Actual
+s1	NYT_ENG_20131108.0148	21__34	3905,3909	said	Contact_Contact	Actual
+s1	NYT_ENG_20131108.0148	21__40	3943,3951	delivery	Contact_Broadcast	Other
+s1	NYT_ENG_20131108.0148	22__3	3998,4004	report	Contact_Broadcast	Actual
+s1	NYT_ENG_20131108.0148	22__9	4037,4045	exchange	Transaction_Transaction	Generic
+s1	NYT_ENG_20131108.0148	22__13	4057,4065	meetings	Contact_Meet	Generic
+@Coreference	C178	1__2,3__31,13__23,22__9,10__31,12__9,9__2
+@Coreference	C179	10,13,12,22,1,3,5,9
+@Coreference	C180	12__15,5__14
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130804_F000125HQ
+s1	ENG_NW_001278_20130804_F000125HQ	1__42	333,339	import	Movement_Transport-Artifact	Generic
+s1	ENG_NW_001278_20130804_F000125HQ	1__44	344,348	sale	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130804_F000125HQ	2__6	471,475	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130804_F000125HQ	2__9	481,490	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130804_F000125HQ	3__3	625,629	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130804_F000125HQ	4__5	759,763	blow	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130804_F000125HQ	4__33	915,918	war	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130804_F000125HQ	6__14	1264,1273	importing	Movement_Transport-Artifact	Generic
+s1	ENG_NW_001278_20130804_F000125HQ	7__12	1360,1365	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130804_F000125HQ	10__23	1693,1697	said	Contact_Contact	Actual
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131211.0176
+s1	NYT_ENG_20131211.0176	1__11	227,232	CRASH	Life_Die	Actual
+s1	NYT_ENG_20131211.0176	3__12	452,459	crashed	Life_Die	Actual
+s1	NYT_ENG_20131211.0176	3__38	585,595	descending	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131211.0176	5__36	967,974	landing	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131211.0176	6__14	1038,1042	told	Contact_Contact	Actual
+s1	NYT_ENG_20131211.0176	7__3	1282,1286	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131211.0176	7__8	1305,1315	approached	Contact_Meet	Actual
+s1	NYT_ENG_20131211.0176	9__14	1675,1684	interview	Contact_Contact	Actual
+s1	NYT_ENG_20131211.0176	10__8	1887,1897	descending	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131211.0176	10__11	1907,1911	came	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131211.0176	10__35	2025,2031	flight	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131211.0176	12__3	2230,2234	said	Contact_Contact	Actual
+s1	NYT_ENG_20131211.0176	12__16	2290,2296	flight	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131211.0176	16__17	2634,2638	died	Life_Die	Actual
+@Coreference	C181	1__11,3__12
+@Coreference	C182	1,10,3
+@Coreference	C183	3__38,10__8
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131113.0045
+s1	NYT_ENG_20131113.0045	1__7	207,216	DEPARTING	Personnel_End-Position	Other
+s1	NYT_ENG_20131113.0045	2__11	365,374	announced	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	2__14	384,389	leave	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131113.0045	3__12	468,472	told	Contact_Contact	Actual
+s1	NYT_ENG_20131113.0045	3__18	494,501	meeting	Contact_Meet	Actual
+s1	NYT_ENG_20131113.0045	3__24	534,539	leave	Movement_Transport-Person	Other
+s1	NYT_ENG_20131113.0045	4__3	578,583	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131113.0045	5__12	733,737	said	Contact_Contact	Actual
+s1	NYT_ENG_20131113.0045	6__4	755,762	request	Contact_Contact	Actual
+s1	NYT_ENG_20131113.0045	6__6	767,774	comment	Contact_Contact	Other
+s1	NYT_ENG_20131113.0045	6__9	785,790	wrote	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	6__12	797,802	email	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	8__5	943,952	announced	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	8__9	965,970	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131113.0045	9__3	1078,1082	said	Contact_Contact	Actual
+s1	NYT_ENG_20131113.0045	10__25	1360,1366	joined	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131113.0045	10__31	1386,1390	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	10__34	1396,1405	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	11__6	1433,1441	coverage	Contact_Broadcast	Other
+s1	NYT_ENG_20131113.0045	12__17	1625,1629	said	Contact_Contact	Actual
+s1	NYT_ENG_20131113.0045	12__20	1637,1644	joining	Personnel_Start-Position	Other
+s1	NYT_ENG_20131113.0045	13__5	1702,1706	said	Contact_Contact	Actual
+s1	NYT_ENG_20131113.0045	13__8	1713,1718	email	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	14__35	2026,2031	wrote	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	16__2	2080,2090	departures	Personnel_End-Position	Actual
+s1	NYT_ENG_20131113.0045	16__18	2177,2184	leaving	Personnel_End-Position	Actual
+s1	NYT_ENG_20131113.0045	17__13	2284,2288	left	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131113.0045	18__6	2323,2327	beat	Conflict_Attack	Generic
+s1	NYT_ENG_20131113.0045	18__9	2338,2344	joined	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131113.0045	18__23	2417,2426	announced	Contact_Broadcast	Actual
+s1	NYT_ENG_20131113.0045	18__26	2434,2441	joining	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131113.0045	19__15	2524,2530	joined	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131113.0045	20__5	2579,2588	departure	Personnel_End-Position	Actual
+s1	NYT_ENG_20131113.0045	20__8	2599,2607	reported	Contact_Broadcast	Actual
+@Coreference	C192	13,14,6
+@Coreference	C193	18__23,8__5
+@Coreference	C194	8,12,4,18
+@Coreference	C184	18__26,12__20
+@Coreference	C186	1__7,3__24,2__14
+@Coreference	C187	1,3,2
+@Coreference	C188	8__9,4__3
+@Coreference	C190	13__8,6__12
+@Coreference	C191	14__35,6__9
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130728_F00012C7H
+s1	ENG_NW_001278_20130728_F00012C7H	1__8	135,140	leave	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	1__17	224,229	leave	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	1__38	328,334	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	1__43	357,362	crash	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	2__21	513,517	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	3__26	715,721	veered	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	3__31	742,749	landing	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	4__15	885,891	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	5__3	921,925	died	Life_Die	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	5__6	938,946	injuries	Life_Injure	Actual
+s1	ENG_NW_001278_20130728_F00012C7H	5__10	964,969	crash	Life_Die	Actual
+@Coreference	C195	4__15,1__38
+@Coreference	C196	1__17,1__8
+@Coreference	C197	1,4
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131226_F00012RCN
+s1	ENG_NW_001278_20131226_F00012RCN	1__3	101,107	Former	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	1__5	117,125	expelled	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	1__9	174,180	Former	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	1__11	190,198	expelled	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	1__25	251,257	former	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	1__38	337,345	expelled	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	1__49	390,396	thrown	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	2__24	541,545	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	2__26	548,557	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	3__37	800,804	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	4__7	833,842	embezzled	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20131226_F00012RCN	4__11	860,866	abused	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	4__31	981,993	embezzlement	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	5__3	1054,1058	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131226_F00012RCN	5__15	1119,1130	confiscated	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20131226_F00012RCN	5__20	1156,1167	transferred	Movement_Transport-Person	Actual
+@Coreference	C198	1__5,1__38,1__11
+@Coreference	C199	1__25,1__3
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130120_F00013J0W
+s1	ENG_NW_001278_20130120_F00013J0W	1__6	115,122	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	1__20	242,249	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	1__32	325,332	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	1__59	474,482	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	1__64	509,513	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	1__72	544,551	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	1__79	594,600	called	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	2__7	704,711	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	2__21	784,788	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	2__24	800,805	rally	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	3__4	998,1004	speech	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	3__7	1013,1017	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	3__28	1124,1132	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	3__37	1181,1187	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	4__36	1413,1417	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	4__55	1540,1547	session	Contact_Correspondence	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	5__15	1638,1646	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130120_F00013J0W	6__9	1694,1698	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	6__14	1716,1726	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	7__8	2074,2079	rally	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	7__18	2135,2142	deliver	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130120_F00013J0W	7__26	2177,2181	rape	Conflict_Attack	Generic
+@Coreference	C200	1__6,1__72,1__32,5__15,1__20,2__7
+@Coreference	C201	1__59,3__28,2__24,7__8
+@Coreference	C202	1__64,6__9
+@Coreference	C203	1,3,2,7,6
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130819_F00012CFL
+s1	ENG_NW_001278_20130819_F00012CFL	1__33	308,313	visit	Contact_Meet	Other
+s1	ENG_NW_001278_20130819_F00012CFL	3__6	540,547	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130819_F00012CFL	4__2	617,624	stepped	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130819_F00012CFL	4__11	663,667	lost	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130819_F00012CFL	4__14	680,688	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130819_F00012CFL	5__11	735,743	election	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130819_F00012CFL	7__5	858,868	Conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130819_F00012CFL	7__13	901,908	visited	Movement_Transport-Person	Actual
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130621.0120
+s1	NYT_ENG_20130621.0120	2__7	479,487	appeared	Contact_Meet	Actual
+s1	NYT_ENG_20130621.0120	2__16	534,540	firing	Conflict_Attack	Actual
+s1	NYT_ENG_20130621.0120	2__27	599,605	taking	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130621.0120	3__14	727,738	re-election	Personnel_Elect	Other
+s1	NYT_ENG_20130621.0120	3__32	813,820	walking	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130621.0120	5__7	935,939	said	Contact_Contact	Actual
+s1	NYT_ENG_20130621.0120	5__19	993,1000	elected	Personnel_Elect	Actual
+s1	NYT_ENG_20130621.0120	8__2	1160,1164	says	Contact_Contact	Actual
+s1	NYT_ENG_20130621.0120	10__4	1373,1382	strolling	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130621.0120	12__12	1614,1622	accusing	Contact_Contact	Actual
+s1	NYT_ENG_20130621.0120	13__5	1867,1871	said	Contact_Contact	Actual
+s1	NYT_ENG_20130621.0120	13__9	1884,1887	buy	Transaction_Transfer-Ownership	Generic
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131018_F00012XML
+s1	ENG_NW_001278_20131018_F00012XML	1__4	109,119	criticizes	Contact_Contact	Actual
+s1	ENG_NW_001278_20131018_F00012XML	1__57	436,440	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131018_F00012XML	2__4	572,581	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131018_F00012XML	2__11	612,616	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20131018_F00012XML	3__32	1040,1047	meeting	Contact_Meet	Other
+s1	ENG_NW_001278_20131018_F00012XML	4__15	1189,1195	return	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20131018_F00012XML	5__4	1228,1235	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20131018_F00012XML	5__5	1236,1245	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131018_F00012XML	5__13	1298,1301	aid	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131018_F00012XML	6__2	1415,1419	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131018_F00012XML	6__4	1424,1431	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20131018_F00012XML	6__23	1518,1528	conference	Contact_Broadcast	Other
+s1	ENG_NW_001278_20131018_F00012XML	6__27	1543,1550	funding	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131018_F00012XML	6__28	1551,1560	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131018_F00012XML	6__32	1575,1585	conference	Contact_Broadcast	Actual
+@Coreference	C204	2__11,2__4,1__57
+@Coreference	C205	6__4,3__32,5__4
+@Coreference	C206	3,5,6
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130211_F00011MRH
+s1	ENG_NW_001278_20130211_F00011MRH	1__7	122,128	resign	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	1__20	230,236	resign	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	1__38	313,317	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	1__41	327,334	meeting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	1__50	379,385	resign	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	2__9	448,452	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	4__3	888,897	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	4__7	912,916	step	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	4__32	1024,1030	vacant	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	4__39	1054,1059	elect	Personnel_Elect	Other
+s1	ENG_NW_001278_20130211_F00011MRH	6__2	1215,1224	resigning	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	6__6	1234,1238	move	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130211_F00011MRH	6__18	1294,1302	transfer	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130211_F00011MRH	7__7	1385,1389	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	7__10	1398,1408	conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	7__14	1424,1436	announcement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	7__25	1489,1494	elect	Personnel_Elect	Other
+s1	ENG_NW_001278_20130211_F00011MRH	8__6	1532,1539	elected	Personnel_Elect	Generic
+s1	ENG_NW_001278_20130211_F00011MRH	9__3	1618,1624	gather	Contact_Meet	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	9__22	1724,1729	elect	Personnel_Elect	Other
+s1	ENG_NW_001278_20130211_F00011MRH	11__3	1845,1849	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	11__8	1866,1877	resignation	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	12__14	2117,2121	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	12__17	2131,2143	announcement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	12__33	2209,2213	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	15__8	2675,2681	resign	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	15__27	2771,2777	former	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	16__2	2791,2802	resignation	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	17__31	3129,3135	resign	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130211_F00011MRH	18__7	3212,3220	resigned	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130211_F00011MRH	18__28	3314,3321	shatter	Life_Injure	Other
+@Coreference	C211	11__8,1__7,4__32,6__2,4__7,17__31,15__8,1__50,16__2,1__20,18__7,15__27
+@Coreference	C212	2__9,1__38
+@Coreference	C213	1,2
+@Coreference	C214	7__25,9__22,4__39
+@Coreference	C215	11,12,15,17,16,18,4,7,6,9
+@Coreference	C216	12__17,7__14
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130731_F00013KTO
+s1	ENG_NW_001278_20130731_F00013KTO	2__20	710,717	threats	Contact_Contact	Generic
+s1	ENG_NW_001278_20130731_F00013KTO	4__3	1021,1030	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130731_F00013KTO	4__23	1146,1153	claimed	Life_Die	Actual
+s1	ENG_NW_001278_20130731_F00013KTO	7__36	1925,1930	theft	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130731_F00013KTO	9__16	2179,2185	arrest	Justice_Arrest-Jail	Other
+s1	ENG_NW_001278_20130731_F00013KTO	10__21	2368,2376	Dialogue	Contact_Contact	Other
+s1	ENG_NW_001278_20130731_F00013KTO	10__29	2414,2420	summit	Contact_Meet	Actual
+s1	ENG_NW_001278_20130731_F00013KTO	10__30	2421,2425	held	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130731_F00013KTO	11__3	2532,2540	meetings	Contact_Meet	Actual
+s1	ENG_NW_001278_20130731_F00013KTO	13__6	2913,2917	kill	Life_Die	Other
+s1	ENG_NW_001278_20130731_F00013KTO	14__26	3162,3169	serving	Justice_Arrest-Jail	Other
+s1	ENG_NW_001278_20130731_F00013KTO	15__30	3479,3486	threats	Contact_Contact	Generic
+s1	ENG_NW_001278_20130731_F00013KTO	16__57	3828,3833	talks	Contact_Contact	Other
+@Coreference	C217	4__3,4__23
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130705_F00012IUO
+s1	ENG_NW_001278_20130705_F00012IUO	1__46	359,365	deadly	Life_Die	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	1__66	503,507	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	2__2	524,528	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	2__5	537,547	conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	4__21	856,866	infections	Life_Injure	Generic
+s1	ENG_NW_001278_20130705_F00012IUO	4__31	916,920	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	5__2	1072,1076	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	7__2	1386,1390	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	9__37	1816,1825	explained	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	10__12	1900,1910	explosions	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	10__65	2153,2157	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	11__32	2487,2499	consultation	Contact_Contact	Other
+s1	ENG_NW_001278_20130705_F00012IUO	12__26	2655,2660	force	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130705_F00012IUO	15__29	3156,3160	tell	Contact_Broadcast	Other
+@Coreference	C218	2__2,7__2,1__66,4__31
+@Coreference	C219	1,2,4,7
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130613_F00012SZ1
+s1	ENG_NW_001278_20130613_F00012SZ1	1__7	133,143	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	1__9	147,152	leave	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130613_F00012SZ1	1__17	240,250	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	1__19	254,259	leave	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130613_F00012SZ1	1__26	303,313	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	1__28	317,322	leave	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130613_F00012SZ1	1__44	404,410	issued	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	1__49	433,443	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	1__53	469,482	demonstration	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	1__57	496,502	saying	Contact_Contact	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	2__12	633,637	move	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130613_F00012SZ1	2__13	638,648	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	2__27	712,720	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	3__14	791,801	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	3__42	918,922	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	4__9	985,995	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	5__5	1113,1117	burn	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	5__19	1174,1178	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	7__2	1413,1427	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	8__2	1609,1616	clashes	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	8__6	1636,1646	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	8__8	1652,1658	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130613_F00012SZ1	8__19	1708,1715	injured	Life_Injure	Actual
+@Coreference	C220	2__13,1__7,2__27,1__17,1__49,3__14,1__53,8__6,1__26,4__9
+@Coreference	C221	1__28,1__19,1__9
+@Coreference	C222	8,3,2,4
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130109_F00012KKG
+s1	ENG_NW_001278_20130109_F00012KKG	2__29	326,334	shooting	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	2__47	423,428	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	3__12	534,539	sales	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	4__12	736,744	purchase	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130109_F00012KKG	4__29	853,857	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	5__11	926,935	purchases	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	6__15	1108,1119	transaction	Transaction_Transaction	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	8__11	1285,1294	purchases	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	9__6	1437,1442	sales	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	9__21	1539,1547	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130109_F00012KKG	9__28	1587,1595	shooting	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	11__7	1791,1795	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	11__10	1808,1812	sold	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	12__7	1903,1908	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	12__9	1913,1919	driven	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	12__22	1987,1991	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	13__8	2037,2041	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	14__8	2206,2210	sold	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	15__4	2250,2255	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	15__10	2277,2285	exploded	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	15__18	2321,2328	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	16__27	2459,2463	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	17__2	2551,2559	shooting	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	17__25	2674,2677	buy	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	18__12	2750,2754	sold	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	18__15	2765,2773	shooting	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	18__27	2819,2823	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	18__32	2846,2852	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	18__36	2871,2875	left	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	19__15	2963,2972	shootings	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	20__12	3041,3046	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	20__16	3057,3063	buying	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	21__11	3124,3131	injured	Life_Injure	Other
+s1	ENG_NW_001278_20130109_F00012KKG	21__13	3135,3141	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	25__26	3772,3780	Shooting	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130109_F00012KKG	27__5	3949,3961	manufactured	Manufacture_Artifact	Generic
+s1	ENG_NW_001278_20130109_F00012KKG	28__10	4182,4190	exported	Movement_Transport-Artifact	Actual
+@Coreference	C225	12__7,3__12,15__4,2__47,9__6,20__12
+@Coreference	C229	18__15,9__28,17__2,2__29,25__26
+@Coreference	C230	11,25,12,15,14,17,18,3,2,9,20
+@Coreference	C231	5__11,8__11,4__12
+@Coreference	C232	8,5,4
+@Coreference	C223	11__10,14__8,18__12
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131221.0217
+s1	NYT_ENG_20131221.0217	4__11	485,490	maker	Manufacture_Artifact	Actual
+s1	NYT_ENG_20131221.0217	4__13	492,500	reported	Contact_Broadcast	Actual
+s1	NYT_ENG_20131221.0217	4__20	534,541	posting	Contact_Broadcast	Actual
+s1	NYT_ENG_20131221.0217	4__25	557,561	loss	Life_Die	Actual
+s1	NYT_ENG_20131221.0217	4__30	579,583	drop	Movement_Transport-Artifact	Actual
+s1	NYT_ENG_20131221.0217	4__32	587,594	revenue	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131221.0217	5__14	699,707	entering	Movement_Transport-Person	Generic
+s1	NYT_ENG_20131221.0217	5__21	746,758	manufacturer	Manufacture_Artifact	Generic
+s1	NYT_ENG_20131221.0217	7__9	1066,1076	write-down	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131221.0217	8__6	1188,1194	bought	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20131221.0217	9__3	1331,1336	sales	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20131221.0217	9__8	1354,1361	revenue	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131221.0217	10__9	1496,1501	buyer	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20131221.0217	10__14	1522,1530	replaced	Personnel_End-Position	Actual
+s1	NYT_ENG_20131221.0217	10__28	1591,1597	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20131221.0217	11__4	1654,1659	fired	Conflict_Attack	Actual
+s1	NYT_ENG_20131221.0217	12__14	1783,1792	announced	Contact_Broadcast	Actual
+s1	NYT_ENG_20131221.0217	13__18	1933,1944	manufacture	Manufacture_Artifact	Generic
+s1	NYT_ENG_20131221.0217	16__4	2223,2227	call	Contact_Correspondence	Actual
+s1	NYT_ENG_20131221.0217	16__9	2248,2252	said	Contact_Contact	Actual
+s1	NYT_ENG_20131221.0217	16__16	2295,2306	manufacture	Manufacture_Artifact	Generic
+s1	NYT_ENG_20131221.0217	17__15	2409,2413	said	Contact_Contact	Actual
+s1	NYT_ENG_20131221.0217	17__23	2459,2469	writedowns	Transaction_Transfer-Money	Generic
+@Coreference	C233	4__32,9__8
+@Coreference	C234	9,4
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131010.0200
+s1	NYT_ENG_20131010.0200	1__2	177,182	CITES	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	1__9	220,228	EXPLODED	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	1__19	319,324	cited	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	1__38	426,435	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	1__48	476,480	dead	Life_Die	Actual
+s1	NYT_ENG_20131010.0200	3__2	629,638	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	6__6	1030,1040	employment	Personnel_Start-Position	Other
+s1	NYT_ENG_20131010.0200	6__11	1056,1066	employment	Personnel_Start-Position	Other
+s1	NYT_ENG_20131010.0200	6__25	1143,1148	death	Life_Die	Other
+s1	NYT_ENG_20131010.0200	6__29	1156,1162	report	Contact_Broadcast	Actual
+s1	NYT_ENG_20131010.0200	7__17	1278,1287	announced	Contact_Broadcast	Actual
+s1	NYT_ENG_20131010.0200	7__24	1323,1332	asserting	Contact_Broadcast	Actual
+s1	NYT_ENG_20131010.0200	7__27	1346,1356	explosions	Conflict_Attack	Other
+s1	NYT_ENG_20131010.0200	9__37	1696,1705	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	10__10	1775,1779	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	10__26	1869,1876	explode	Conflict_Attack	Other
+s1	NYT_ENG_20131010.0200	11__11	2004,2008	fire	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	12__11	2162,2166	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	12__42	2333,2342	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	13__13	2424,2433	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	13__16	2444,2448	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	14__2	2529,2533	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	14__22	2635,2641	report	Contact_Broadcast	Actual
+s1	NYT_ENG_20131010.0200	14__33	2702,2707	built	Manufacture_Artifact	Actual
+s1	NYT_ENG_20131010.0200	15__2	2770,2779	testimony	Contact_Broadcast	Actual
+s1	NYT_ENG_20131010.0200	18__9	3187,3196	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	18__29	3300,3304	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	20__10	3479,3489	furloughed	Personnel_End-Position	Actual
+s1	NYT_ENG_20131010.0200	20__21	3545,3554	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	23__2	3858,3862	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	23__13	3923,3932	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	23__24	3981,3986	blast	Conflict_Attack	Actual
+s1	NYT_ENG_20131010.0200	24__5	4018,4025	visited	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131010.0200	24__14	4062,4066	said	Contact_Contact	Actual
+s1	NYT_ENG_20131010.0200	24__18	4091,4096	built	Manufacture_Artifact	Actual
+s1	NYT_ENG_20131010.0200	27__9	4489,4493	fund	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131010.0200	27__15	4518,4522	fund	Transaction_Transfer-Money	Other
+@Coreference	C235	23__13,7__27,12__42,13__13,3__2,18__9,20__21,1__38,9__37
+@Coreference	C236	13,12,20,14,23,18,1,3,7,6,9
+@Coreference	C237	1__48,6__25
+@Coreference	C238	6__29,14__22
+@Coreference	C239	6__6,6__11
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131101.0055
+s1	NYT_ENG_20131101.0055	2__14	343,347	Goes	Movement_Transport-Person	Other
+s1	NYT_ENG_20131101.0055	3__7	419,428	appointed	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131101.0055	5__7	687,691	Goes	Movement_Transport-Person	Other
+s1	NYT_ENG_20131101.0055	6__10	968,975	tacking	Contact_Broadcast	Actual
+s1	NYT_ENG_20131101.0055	10__3	1141,1148	elected	Personnel_Elect	Actual
+s1	NYT_ENG_20131101.0055	11__19	1307,1318	immigration	Movement_Transport-Person	Generic
+s1	NYT_ENG_20131101.0055	13__2	1352,1356	said	Contact_Contact	Actual
+s1	NYT_ENG_20131101.0055	13__6	1375,1386	immigration	Movement_Transport-Person	Generic
+s1	NYT_ENG_20131101.0055	14__7	1441,1452	immigration	Movement_Transport-Person	Generic
+s1	NYT_ENG_20131101.0055	14__40	1636,1643	payment	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20131101.0055	15__3	1674,1678	says	Contact_Contact	Actual
+s1	NYT_ENG_20131101.0055	29__9	2735,2746	immigration	Movement_Transport-Person	Generic
+s1	NYT_ENG_20131101.0055	30__17	2847,2851	blow	Conflict_Attack	Other
+s1	NYT_ENG_20131101.0055	37__5	3149,3159	employment	Personnel_Start-Position	Other
+s1	NYT_ENG_20131101.0055	50__12	3894,3899	plane	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131101.0055	51__4	3940,3948	speeches	Contact_Broadcast	Other
+s1	NYT_ENG_20131101.0055	51__6	3953,3962	collected	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131101.0055	54__2	4105,4115	squandered	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131101.0055	56__5	4342,4349	reached	Contact_Correspondence	Other
+@Coreference	C240	11__19,14__7,13__6,29__9
+@Coreference	C241	11,13,15,14,29
+@Coreference	C242	13__2,15__3
+@Coreference	C243	5__7,2__14
+@Coreference	C244	2,5
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130524.0107
+s1	NYT_ENG_20130524.0107	1__1	172,181	Furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	1__28	403,412	furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	2__2	476,484	proposal	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	2__11	540,547	elected	Personnel_Elect	Generic
+s1	NYT_ENG_20130524.0107	3__22	693,702	furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	3__43	810,815	wrote	Contact_Broadcast	Actual
+s1	NYT_ENG_20130524.0107	3__46	821,827	letter	Contact_Correspondence	Actual
+s1	NYT_ENG_20130524.0107	4__27	1051,1055	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	6__3	1211,1215	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	6__5	1220,1229	furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	6__11	1254,1258	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	6__35	1385,1393	spending	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130524.0107	7__13	1484,1492	furlough	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	9__2	1607,1611	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	9__27	1745,1754	furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	10__29	1904,1911	collect	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130524.0107	10__34	1927,1937	furloughed	Personnel_End-Position	Other
+s1	NYT_ENG_20130524.0107	11__3	1951,1955	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	12__20	2216,2220	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130524.0107	12__27	2256,2264	furlough	Personnel_End-Position	Other
+s1	NYT_ENG_20130524.0107	13__16	2354,2358	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	16__2	2661,2665	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	16__3	2666,2675	furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	16__15	2750,2754	send	Movement_Transport-Person	Other
+s1	NYT_ENG_20130524.0107	17__2	2827,2831	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	17__7	2867,2875	furlough	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	18__13	2988,2991	die	Life_Die	Other
+s1	NYT_ENG_20130524.0107	18__32	3075,3079	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	19__11	3215,3219	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	19__13	3230,3239	furloughs	Personnel_End-Position	Generic
+s1	NYT_ENG_20130524.0107	21__12	3437,3442	blows	Conflict_Attack	Actual
+s1	NYT_ENG_20130524.0107	23__12	3705,3708	hit	Conflict_Attack	Actual
+s1	NYT_ENG_20130524.0107	23__17	3723,3730	killing	Life_Die	Actual
+s1	NYT_ENG_20130524.0107	24__2	3766,3770	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	24__7	3800,3807	warning	Contact_Broadcast	Actual
+s1	NYT_ENG_20130524.0107	25__18	3990,3994	said	Contact_Contact	Actual
+s1	NYT_ENG_20130524.0107	26__6	4031,4038	reached	Contact_Correspondence	Other
+@Coreference	C245	17__7,9__27,1__1,12__27,6__5,7__13,3__22,1__28,19__13,16__3,10__34
+@Coreference	C246	10,12,17,16,19,3,7,6,9
+@Coreference	C247	4__27,6__3,6__11
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130206_F00012KW0
+s1	ENG_NW_001278_20130206_F00012KW0	1__35	331,336	built	Manufacture_Artifact	Actual
+s1	ENG_NW_001278_20130206_F00012KW0	1__59	468,472	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130206_F00012KW0	2__4	503,508	built	Manufacture_Artifact	Actual
+s1	ENG_NW_001278_20130206_F00012KW0	2__15	556,562	opened	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130206_F00012KW0	4__2	694,698	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130206_F00012KW0	4__8	729,735	opened	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130206_F00012KW0	6__14	1005,1018	demonstration	Conflict_Demonstrate	Other
+s1	ENG_NW_001278_20130206_F00012KW0	7__18	1152,1157	trade	Transaction_Transfer-Ownership	Generic
+@Coreference	C248	2__4,1__35
+@Coreference	C249	1,2,4
+@Coreference	C250	4__8,2__15
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130726_F00013HDE
+s1	ENG_NW_001278_20130726_F00013HDE	1__52	426,430	left	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130726_F00013HDE	1__55	442,449	injured	Life_Injure	Actual
+s1	ENG_NW_001278_20130726_F00013HDE	2__28	767,773	hurled	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130726_F00013HDE	2__56	915,923	tortured	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130726_F00013HDE	3__20	1072,1081	traveling	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130726_F00013HDE	6__24	1661,1672	interrogate	Justice_Arrest-Jail	Other
+s1	ENG_NW_001278_20130726_F00013HDE	7__17	1811,1817	kicked	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130726_F00013HDE	10__22	2296,2302	travel	Movement_Transport-Person	Generic
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130517.0006
+s1	NYT_ENG_20130517.0006	2__28	624,628	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	3__11	704,708	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	4__24	928,932	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	6__18	1230,1234	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	7__3	1362,1371	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	7__12	1424,1428	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	8__10	1621,1628	discuss	Contact_Meet	Actual
+s1	NYT_ENG_20130517.0006	8__22	1689,1693	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	9__3	1748,1752	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	10__5	1997,2004	reached	Contact_Contact	Other
+s1	NYT_ENG_20130517.0006	15__4	2692,2699	injured	Life_Injure	Actual
+s1	NYT_ENG_20130517.0006	15__6	2704,2710	killed	Life_Die	Actual
+s1	NYT_ENG_20130517.0006	15__19	2778,2786	suicides	Life_Die	Actual
+s1	NYT_ENG_20130517.0006	16__6	2831,2840	pressured	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	17__3	2982,2990	earnings	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130517.0006	18__2	3073,3079	joined	Personnel_Start-Position	Actual
+s1	NYT_ENG_20130517.0006	18__16	3137,3142	asked	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	19__19	3318,3329	interviewed	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	20__4	3367,3371	paid	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20130517.0006	22__16	3579,3585	report	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	22__17	3586,3590	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	23__11	3647,3651	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	23__24	3705,3714	interview	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	25__12	3840,3844	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	26__12	3898,3904	escape	Movement_Transport-Person	Other
+s1	NYT_ENG_20130517.0006	26__21	3956,3961	asked	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	26__26	3977,3987	evacuation	Movement_Transport-Person	Other
+s1	NYT_ENG_20130517.0006	28__28	4267,4274	capture	Justice_Arrest-Jail	Other
+s1	NYT_ENG_20130517.0006	29__4	4327,4336	explosion	Conflict_Attack	Actual
+s1	NYT_ENG_20130517.0006	29__13	4378,4384	killed	Life_Die	Actual
+s1	NYT_ENG_20130517.0006	29__17	4403,4410	injured	Life_Injure	Actual
+s1	NYT_ENG_20130517.0006	30__7	4477,4481	said	Contact_Contact	Actual
+s1	NYT_ENG_20130517.0006	30__22	4563,4569	unpaid	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130517.0006	30__29	4600,4606	unpaid	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130517.0006	31__7	4645,4654	reporting	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	31__37	4837,4841	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130517.0006	31__40	4848,4853	email	Contact_Broadcast	Actual
+@Coreference	C251	15__4,29__17
+@Coreference	C252	15,29
+@Coreference	C253	4__24,8__22,7__3,6__18,2__28,7__12,3__11
+@Coreference	C254	3,2,4,7,6,8
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131125_F000134SK
+s1	ENG_NW_001278_20131125_F000134SK	1__5	109,116	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	1__23	241,248	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	1__53	398,404	called	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131125_F000134SK	1__56	413,420	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	2__7	585,589	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	2__11	605,614	explained	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	2__23	676,688	announcement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131125_F000134SK	2__42	781,788	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	3__4	858,865	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	5__2	1151,1161	reiterated	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131125_F000134SK	5__25	1291,1297	flight	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131125_F000134SK	6__2	1305,1309	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	7__20	1603,1610	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	8__37	1908,1916	entering	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20131125_F000134SK	9__13	2153,2159	report	Contact_Broadcast	Other
+s1	ENG_NW_001278_20131125_F000134SK	9__20	2191,2198	flights	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131125_F000134SK	12__22	2685,2692	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	13__9	2805,2812	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	14__28	3049,3053	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131125_F000134SK	18__47	3686,3693	remarks	Contact_Contact	Generic
+s1	ENG_NW_001278_20131125_F000134SK	19__18	3860,3867	remarks	Contact_Contact	Actual
+@Coreference	C256	13,12,19,18,3,2,7
+@Coreference	C255	18__47,1__5,2__11,7__20,12__22,19__18,2__7,3__4,13__9,1__23,5__25,2__42,1__56
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130823.0189
+s1	NYT_ENG_20130823.0189	1__3	191,201	GANG-RAPED	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130823.0189	1__10	228,235	CUSTODY	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130823.0189	1__28	367,378	accusations	Contact_Contact	Generic
+s1	NYT_ENG_20130823.0189	4__11	622,627	raped	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	5__2	796,803	assault	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	5__6	820,824	rape	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	5__8	829,835	murder	Life_Die	Actual
+s1	NYT_ENG_20130823.0189	5__25	912,920	protests	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130823.0189	6__6	946,953	arrived	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130823.0189	8__9	1324,1331	release	Contact_Broadcast	Other
+s1	NYT_ENG_20130823.0189	8__14	1346,1350	rape	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	9__3	1427,1431	said	Contact_Contact	Actual
+s1	NYT_ENG_20130823.0189	9__9	1459,1468	assaulted	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	10__8	1546,1552	beaten	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	10__14	1580,1585	raped	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	11__2	1595,1599	said	Contact_Contact	Actual
+s1	NYT_ENG_20130823.0189	11__9	1639,1647	injuries	Life_Injure	Actual
+s1	NYT_ENG_20130823.0189	12__14	1764,1772	arrested	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130823.0189	12__24	1815,1819	said	Contact_Contact	Actual
+s1	NYT_ENG_20130823.0189	13__8	1887,1895	arrested	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130823.0189	13__11	1903,1911	admitted	Contact_Contact	Actual
+s1	NYT_ENG_20130823.0189	13__22	1956,1960	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130823.0189	13__26	1971,1981	conference	Contact_Broadcast	Actual
+s1	NYT_ENG_20130823.0189	16__16	2296,2300	rape	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	17__4	2400,2405	rapes	Conflict_Attack	Actual
+s1	NYT_ENG_20130823.0189	17__5	2406,2414	reported	Contact_Broadcast	Actual
+@Coreference	C257	10__14,8__14,16__16,4__11,5__6
+@Coreference	C258	10,16,5,4,9,8
+@Coreference	C259	5__2,9__9
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131029_F00011SNV
+s1	ENG_NW_001278_20131029_F00011SNV	1__8	129,136	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__13	160,166	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__16	213,218	sacks	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__20	235,242	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__25	266,272	attack	Conflict_Attack	Other
+s1	ENG_NW_001278_20131029_F00011SNV	1__31	302,309	looting	Transaction_Transaction	Other
+s1	ENG_NW_001278_20131029_F00011SNV	1__36	333,339	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__49	393,397	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__55	428,434	sacked	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__57	439,445	jailed	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	1__59	450,457	looting	Transaction_Transaction	Other
+s1	ENG_NW_001278_20131029_F00011SNV	1__66	495,501	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	2__8	611,615	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	2__11	623,633	conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	2__29	715,722	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	2__38	772,777	siege	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	3__6	804,811	driving	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	5__6	932,938	jailed	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	5__8	943,952	dismissed	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	5__19	996,1000	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	6__2	1029,1033	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	6__15	1101,1107	stolen	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20131029_F00011SNV	7__2	1223,1227	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	7__9	1264,1270	phones	Contact_Correspondence	Generic
+s1	ENG_NW_001278_20131029_F00011SNV	7__17	1304,1310	stolen	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	7__24	1337,1342	siege	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	8__10	1412,1419	ordered	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131029_F00011SNV	8__14	1444,1451	looting	Transaction_Transaction	Generic
+s1	ENG_NW_001278_20131029_F00011SNV	8__31	1546,1553	looting	Transaction_Transaction	Other
+s1	ENG_NW_001278_20131029_F00011SNV	8__32	1554,1559	spree	Conflict_Attack	Actual
+@Coreference	C260	1__25,1__66,1__36,1__13
+@Coreference	C261	1__16,1__55
+@Coreference	C262	8__31,2__29,8__14,1__8,1__59,1__31,1__20
+@Coreference	C263	1__57,5__6
+@Coreference	C264	1,2,5,7
+@Coreference	C265	2__38,7__24
+@Coreference	C266	2__8,5__19
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130425.0150
+s1	NYT_ENG_20130425.0150	1__1	172,182	PROTESTERS	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130425.0150	1__34	396,401	voice	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	1__41	439,445	killed	Life_Die	Actual
+s1	NYT_ENG_20130425.0150	2__7	531,535	said	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	3__3	592,596	said	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	4__6	700,707	protest	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130425.0150	6__6	1045,1050	built	Manufacture_Artifact	Actual
+s1	NYT_ENG_20130425.0150	6__13	1088,1097	shootings	Conflict_Attack	Actual
+s1	NYT_ENG_20130425.0150	6__15	1103,1109	killed	Life_Die	Actual
+s1	NYT_ENG_20130425.0150	6__36	1226,1233	assault	Conflict_Attack	Generic
+s1	NYT_ENG_20130425.0150	7__24	1432,1438	killed	Life_Die	Actual
+s1	NYT_ENG_20130425.0150	7__28	1453,1461	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130425.0150	8__5	1491,1497	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20130425.0150	8__21	1580,1584	said	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	9__2	1697,1707	protesters	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130425.0150	9__18	1794,1801	letters	Contact_Correspondence	Actual
+s1	NYT_ENG_20130425.0150	9__35	1894,1900	asking	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	10__8	1990,2000	protesters	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130425.0150	10__9	2001,2009	returned	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130425.0150	10__11	2016,2021	calls	Contact_Correspondence	Actual
+s1	NYT_ENG_20130425.0150	11__14	2138,2143	spent	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20130425.0150	12__23	2390,2398	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130425.0150	13__5	2426,2433	protest	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130425.0150	13__9	2447,2451	said	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	17__6	2746,2752	walked	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130425.0150	17__14	2788,2795	shouted	Contact_Broadcast	Actual
+s1	NYT_ENG_20130425.0150	18__2	2845,2855	protesters	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130425.0150	19__10	2976,2980	said	Contact_Contact	Actual
+s1	NYT_ENG_20130425.0150	19__22	3034,3040	killed	Life_Die	Actual
+@Coreference	C267	1__1,10__8,4__6,13__5,18__2,9__2
+@Coreference	C268	1__41,6__15
+@Coreference	C269	10,13,12,19,18,1,4,7,6,9
+@Coreference	C270	3__3,2__7
+@Coreference	C271	3,2
+@Coreference	C272	6__36,12__23,6__13,7__28
+@Coreference	C273	7__24,19__22
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130809_F00011RWH
+s1	ENG_NW_001278_20130809_F00011RWH	1__12	145,151	deadly	Life_Die	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	1__14	157,162	crash	Life_Die	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	1__26	255,261	deadly	Life_Die	Generic
+s1	ENG_NW_001278_20130809_F00011RWH	1__28	267,272	crash	Life_Die	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	1__56	400,406	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	1__69	473,477	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	2__15	568,572	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	3__6	678,687	traveling	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	3__25	774,778	flew	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130809_F00011RWH	4__18	907,915	speaking	Contact_Broadcast	Actual
+@Coreference	C274	1__26,1__12
+@Coreference	C275	1__14,1__28
+@Coreference	C276	1__69,2__15
+@Coreference	C277	1,2
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131004_F000122MG
+s1	ENG_NW_001278_20131004_F000122MG	1__7	125,132	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131004_F000122MG	1__17	223,230	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131004_F000122MG	1__26	282,289	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131004_F000122MG	1__46	376,380	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131004_F000122MG	1__60	468,475	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131004_F000122MG	1__70	531,537	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20131004_F000122MG	2__13	616,623	looting	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20131004_F000122MG	3__5	727,734	walking	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131004_F000122MG	4__4	828,835	looting	Transaction_Transaction	Other
+s1	ENG_NW_001278_20131004_F000122MG	4__13	890,894	lost	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131004_F000122MG	5__3	931,940	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131004_F000122MG	6__5	1119,1125	killed	Life_Die	Actual
+s1	ENG_NW_001278_20131004_F000122MG	6__8	1137,1143	attack	Conflict_Attack	Actual
+@Coreference	C278	1__60,2__13,1__7,4__4,1__17,1__26
+@Coreference	C279	2,4
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130810_F00012CBZ
+s1	ENG_NW_001278_20130810_F00012CBZ	1__66	467,473	import	Movement_Transport-Artifact	Generic
+s1	ENG_NW_001278_20130810_F00012CBZ	1__68	478,482	sale	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130810_F00012CBZ	2__5	642,646	blow	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130810_F00012CBZ	2__27	763,766	war	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130810_F00012CBZ	3__16	864,868	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130810_F00012CBZ	3__21	893,899	import	Movement_Transport-Artifact	Generic
+s1	ENG_NW_001278_20130810_F00012CBZ	3__23	904,908	sell	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130810_F00012CBZ	4__11	1086,1092	fights	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130810_F00012CBZ	7__15	1506,1515	importing	Movement_Transport-Artifact	Generic
+s1	ENG_NW_001278_20130810_F00012CBZ	8__12	1595,1600	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130810_F00012CBZ	10__22	1855,1859	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130810_F00012CBZ	11__35	2092,2096	said	Contact_Contact	Actual
+@Coreference	C280	3__21,1__66
+@Coreference	C281	1__68,3__23
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130117_F00012AFP
+s1	ENG_NW_001278_20130117_F00012AFP	1__61	468,476	sessions	Contact_Contact	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	2__14	575,585	conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	3__16	864,874	conference	Contact_Broadcast	Other
+s1	ENG_NW_001278_20130117_F00012AFP	4__6	994,1000	passed	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	8__3	1499,1506	elected	Personnel_Elect	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	8__9	1540,1548	spending	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	8__15	1586,1592	visits	Contact_Meet	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	8__17	1597,1605	meetings	Contact_Meet	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	10__6	1781,1789	released	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	10__29	1927,1933	visits	Contact_Meet	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	11__13	2007,2013	notice	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	12__11	2175,2181	visits	Contact_Meet	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	14__10	2431,2439	visiting	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	15__11	2526,2532	visits	Contact_Meet	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	17__12	2794,2802	meetings	Contact_Meet	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	19__18	2915,2919	says	Contact_Contact	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	20__17	3122,3128	travel	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	20__26	3176,3184	spending	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	25__1	3587,3593	Travel	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	26__19	3827,3831	says	Contact_Contact	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	28__2	4064,4072	spending	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130117_F00012AFP	28__24	4178,4187	crackdown	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	32__31	4722,4726	says	Contact_Contact	Actual
+s1	ENG_NW_001278_20130117_F00012AFP	34__7	4937,4943	report	Contact_Broadcast	Other
+@Coreference	C282	10__29,15__11,8__15,12__11
+@Coreference	C283	10,12,15,17,28,8
+@Coreference	C284	3__16,2__14
+@Coreference	C285	3,2
+@Coreference	C286	17__12,8__17
+@Coreference	C287	8__9,28__2
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130730_F00012WUV
+s1	ENG_NW_001278_20130730_F00012WUV	1__4	104,112	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__7	123,131	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__15	202,210	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__18	221,229	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__25	258,266	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__28	277,285	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__51	390,398	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__55	415,422	protest	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	1__68	483,491	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	2__21	583,589	report	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	2__22	590,594	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	3__9	637,645	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	3__11	649,659	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	4__8	709,717	chanting	Contact_Meet	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	4__16	750,756	hauled	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	4__17	757,761	away	Life_Die	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	5__5	796,804	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	5__12	824,829	raids	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	5__13	830,833	hit	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	5__27	906,914	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	5__32	943,951	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	6__2	958,966	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	6__14	1024,1030	sit-in	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	7__1	1202,1209	Clashes	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	7__5	1229,1239	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	7__9	1259,1265	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130730_F00012WUV	7__20	1314,1321	injured	Life_Injure	Actual
+@Coreference	C288	1__15,1__25,5__27,1__4,1__51
+@Coreference	C289	1__7,5__5,6__2,5__32,1__28,1__55,1__18
+@Coreference	C290	1__68,2__21
+@Coreference	C291	1,2
+@Coreference	C292	7__5,3__11
+@Coreference	C293	3,7
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130314_F00012EEU
+s1	ENG_NW_001278_20130314_F00012EEU	1__14	158,166	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130314_F00012EEU	1__31	287,295	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130314_F00012EEU	1__66	463,470	elected	Personnel_Elect	Generic
+s1	ENG_NW_001278_20130314_F00012EEU	2__17	549,556	ringing	Contact_Contact	Actual
+s1	ENG_NW_001278_20130314_F00012EEU	2__22	575,582	reports	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130314_F00012EEU	2__23	583,587	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130314_F00012EEU	2__33	628,635	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130314_F00012EEU	3__24	849,856	reports	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130314_F00012EEU	3__25	857,861	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130314_F00012EEU	4__9	905,911	voting	Personnel_Elect	Generic
+s1	ENG_NW_001278_20130314_F00012EEU	5__6	1017,1028	resignation	Personnel_End-Position	Actual
+@Coreference	C296	3,2
+@Coreference	C294	1__14,1__31,1__66
+@Coreference	C295	2__22,3__24
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130804.0008
+s1	NYT_ENG_20130804.0008	4__17	576,583	selling	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20130804.0008	4__45	723,726	war	Conflict_Attack	Actual
+s1	NYT_ENG_20130804.0008	5__8	810,817	ordered	Contact_Broadcast	Actual
+s1	NYT_ENG_20130804.0008	8__15	1410,1415	trade	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20130804.0008	8__18	1424,1429	wrote	Contact_Broadcast	Actual
+s1	NYT_ENG_20130804.0008	9__2	1583,1589	argued	Contact_Contact	Actual
+s1	NYT_ENG_20130804.0008	10__2	1731,1735	said	Contact_Contact	Actual
+s1	NYT_ENG_20130804.0008	10__6	1753,1756	pay	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130804.0008	10__8	1767,1771	fees	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130804.0008	11__2	1806,1810	said	Contact_Contact	Actual
+s1	NYT_ENG_20130804.0008	12__8	2043,2047	said	Contact_Contact	Actual
+s1	NYT_ENG_20130804.0008	14__2	2222,2226	said	Contact_Contact	Actual
+s1	NYT_ENG_20130804.0008	16__19	2496,2503	produce	Manufacture_Artifact	Actual
+s1	NYT_ENG_20130804.0008	19__7	2851,2858	awarded	Transaction_Transfer-Money	Actual
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130526.0005
+s1	NYT_ENG_20130526.0005	1__2	182,187	MARCH	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	1__13	270,277	marched	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	1__23	312,319	protest	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	2__6	390,403	demonstration	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	3__6	529,533	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	3__17	593,601	stabbing	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	3__36	694,700	murder	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	4__4	833,838	march	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	4__18	912,920	protests	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	5__2	980,994	demonstrations	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	5__19	1096,1106	protesters	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	6__2	1148,1157	converged	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130526.0005	8__5	1317,1331	demonstrations	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	10__6	1794,1801	protest	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	10__15	1837,1845	arrested	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130526.0005	10__17	1852,1860	chaining	Movement_Transport-Artifact	Other
+s1	NYT_ENG_20130526.0005	11__5	1929,1942	demonstrators	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	11__7	1948,1956	arrested	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130526.0005	11__10	1968,1975	climbed	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130526.0005	11__27	2086,2092	resign	Personnel_End-Position	Other
+s1	NYT_ENG_20130526.0005	12__4	2115,2121	seized	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130526.0005	12__13	2158,2163	bombs	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	12__22	2194,2207	demonstration	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	12__26	2219,2223	tear	Conflict_Attack	Other
+s1	NYT_ENG_20130526.0005	12__27	2224,2227	gas	Conflict_Attack	Other
+s1	NYT_ENG_20130526.0005	12__36	2267,2277	protesters	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	13__13	2394,2399	march	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20130526.0005	14__18	2613,2619	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20130526.0005	16__20	2921,2927	called	Contact_Meet	Actual
+s1	NYT_ENG_20130526.0005	17__5	2982,2989	wounded	Life_Injure	Actual
+s1	NYT_ENG_20130526.0005	17__24	3085,3089	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	18__3	3105,3112	stabbed	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	18__25	3218,3227	transport	Movement_Transport-Person	Generic
+s1	NYT_ENG_20130526.0005	19__6	3342,3349	visited	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130526.0005	19__13	3382,3386	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	20__3	3455,3459	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	22__19	3761,3765	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	23__14	3848,3854	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	24__12	3964,3968	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	24__19	4009,4015	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	25__16	4085,4089	told	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	26__8	4156,4163	ordered	Contact_Broadcast	Actual
+s1	NYT_ENG_20130526.0005	26__10	4168,4177	terrorism	Conflict_Attack	Generic
+s1	NYT_ENG_20130526.0005	26__13	4193,4197	said	Contact_Contact	Actual
+s1	NYT_ENG_20130526.0005	26__24	4251,4257	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130526.0005	26__31	4288,4294	arrest	Justice_Arrest-Jail	Other
+s1	NYT_ENG_20130526.0005	28__3	4515,4522	threats	Contact_Contact	Actual
+@Coreference	C297	10__15,11__7
+@Coreference	C298	5__19,11__5,10__6,12__36
+@Coreference	C299	24,10,26,12,23,2,5,11,8
+@Coreference	C300	12__27,24__19,26__24,23__14
+@Coreference	C301	4__4,1__13,1__2
+@Coreference	C302	4__18,1__23
+@Coreference	C303	5__2,12__22,2__6,8__5
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131106.0066
+s1	NYT_ENG_20131106.0066	6__17	701,709	exploded	Conflict_Attack	Actual
+s1	NYT_ENG_20131106.0066	6__22	729,737	violence	Conflict_Attack	Generic
+s1	NYT_ENG_20131106.0066	7__13	859,866	pointed	Contact_Contact	Actual
+s1	NYT_ENG_20131106.0066	7__38	971,977	return	Movement_Transport-Person	Other
+s1	NYT_ENG_20131106.0066	7__42	989,996	elected	Personnel_Elect	Other
+s1	NYT_ENG_20131106.0066	10__14	1191,1195	said	Contact_Contact	Actual
+s1	NYT_ENG_20131106.0066	11__12	1309,1316	summing	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131106.0066	12__7	1442,1449	elected	Personnel_Elect	Actual
+s1	NYT_ENG_20131106.0066	21__14	2607,2615	traveled	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131106.0066	22__3	2653,2657	told	Contact_Contact	Actual
+s1	NYT_ENG_20131106.0066	22__11	2687,2693	return	Movement_Transport-Person	Other
+s1	NYT_ENG_20131106.0066	23__17	2789,2793	told	Contact_Contact	Actual
+@Coreference	C304	7__38,22__11
+@Coreference	C305	7__42,12__7
+@Coreference	C306	12,22,7
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131205_F00011WG2
+s1	ENG_NW_001278_20131205_F00011WG2	1__53	403,407	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131205_F00011WG2	1__72	515,522	replace	Personnel_Start-Position	Other
+s1	ENG_NW_001278_20131205_F00011WG2	1__79	571,579	spending	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20131205_F00011WG2	2__43	786,790	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131205_F00011WG2	3__3	867,873	former	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20131205_F00011WG2	4__1	1009,1018	Replacing	Personnel_Start-Position	Other
+s1	ENG_NW_001278_20131205_F00011WG2	4__4	1040,1048	spending	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20131205_F00011WG2	4__20	1131,1139	spending	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20131205_F00011WG2	4__21	1140,1144	cuts	Personnel_End-Position	Other
+s1	ENG_NW_001278_20131205_F00011WG2	4__36	1217,1221	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131205_F00011WG2	5__14	1317,1327	discussing	Contact_Contact	Actual
+s1	ENG_NW_001278_20131205_F00011WG2	6__8	1463,1470	produce	Manufacture_Artifact	Generic
+s1	ENG_NW_001278_20131205_F00011WG2	6__17	1504,1513	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131205_F00011WG2	8__21	1790,1794	fund	Transaction_Transfer-Money	Other
+@Coreference	C307	1__53,2__43
+@Coreference	C308	1__72,4__1
+@Coreference	C309	4__4,4__20,1__79
+@Coreference	C310	1,2
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130704_F00011RJR
+s1	ENG_NW_001278_20130704_F00011RJR	1__12	159,165	report	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	1__23	267,273	report	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	1__33	333,339	report	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	2__4	552,558	report	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	2__15	613,622	redevelop	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130704_F00011RJR	3__4	734,748	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	3__19	816,822	sit-in	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	4__1	997,1004	Clashes	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	4__6	1028,1038	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	4__9	1053,1059	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130704_F00011RJR	4__20	1109,1116	injured	Life_Injure	Actual
+@Coreference	C311	1__33,1__23,2__4,1__12
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131030.0283
+s1	NYT_ENG_20131030.0283	1__7	218,221	BUY	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20131030.0283	3__15	467,473	firing	Conflict_Attack	Actual
+s1	NYT_ENG_20131030.0283	3__34	572,575	buy	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20131030.0283	4__21	802,811	publishes	Contact_Broadcast	Actual
+s1	NYT_ENG_20131030.0283	4__29	856,860	said	Contact_Contact	Actual
+s1	NYT_ENG_20131030.0283	5__5	925,928	buy	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20131030.0283	5__30	1051,1057	profit	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131030.0283	6__31	1284,1288	fees	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131030.0283	6__48	1377,1381	said	Contact_Contact	Actual
+s1	NYT_ENG_20131030.0283	7__23	1501,1507	bought	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20131030.0283	8__5	1572,1577	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131030.0283	9__14	1750,1757	battles	Conflict_Attack	Actual
+s1	NYT_ENG_20131030.0283	9__19	1782,1788	firing	Conflict_Attack	Actual
+s1	NYT_ENG_20131030.0283	10__18	1896,1902	firing	Conflict_Attack	Actual
+s1	NYT_ENG_20131030.0283	11__3	1956,1967	countersued	Contact_Contact	Actual
+s1	NYT_ENG_20131030.0283	12__15	2054,2061	comment	Contact_Contact	Other
+@Coreference	C312	1__7,5__5,3__34
+@Coreference	C313	1,10,3,9,5
+@Coreference	C314	9__19,3__15,10__18
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130924.0050
+s1	NYT_ENG_20130924.0050	1__10	243,249	beaten	Conflict_Attack	Actual
+s1	NYT_ENG_20130924.0050	1__36	390,395	Death	Life_Die	Other
+s1	NYT_ENG_20130924.0050	1__39	405,408	war	Conflict_Attack	Actual
+s1	NYT_ENG_20130924.0050	1__85	666,674	violence	Conflict_Attack	Actual
+s1	NYT_ENG_20130924.0050	2__19	808,814	killed	Life_Die	Actual
+s1	NYT_ENG_20130924.0050	2__23	832,838	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130924.0050	3__2	912,917	death	Life_Die	Actual
+s1	NYT_ENG_20130924.0050	6__5	1482,1486	said	Contact_Contact	Actual
+s1	NYT_ENG_20130924.0050	6__9	1499,1506	invited	Contact_Meet	Actual
+s1	NYT_ENG_20130924.0050	6__12	1512,1522	conference	Contact_Broadcast	Actual
+s1	NYT_ENG_20130924.0050	6__17	1542,1546	gone	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130924.0050	6__30	1599,1606	wounded	Life_Injure	Actual
+s1	NYT_ENG_20130924.0050	6__33	1614,1620	attack	Conflict_Attack	Actual
+s1	NYT_ENG_20130924.0050	7__15	1699,1703	said	Contact_Contact	Actual
+s1	NYT_ENG_20130924.0050	9__4	1941,1951	imprisoned	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130924.0050	13__31	2830,2838	violence	Conflict_Attack	Generic
+s1	NYT_ENG_20130924.0050	14__18	2984,2994	overthrown	Personnel_End-Position	Actual
+s1	NYT_ENG_20130924.0050	14__21	3000,3004	coup	Conflict_Attack	Actual
+s1	NYT_ENG_20130924.0050	15__20	3153,3157	said	Contact_Contact	Actual
+s1	NYT_ENG_20130924.0050	17__12	3358,3367	expressed	Contact_Contact	Actual
+s1	NYT_ENG_20130924.0050	17__18	3394,3399	death	Life_Die	Actual
+@Coreference	C315	3__2,2__19,1__36,17__18
+@Coreference	C316	1,3,2,17,6
+@Coreference	C317	2__23,6__33
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130810.0221
+s1	NYT_ENG_20130810.0221	2__9	271,279	declared	Contact_Broadcast	Actual
+s1	NYT_ENG_20130810.0221	3__27	533,542	statement	Contact_Broadcast	Other
+s1	NYT_ENG_20130810.0221	4__12	661,667	murder	Conflict_Attack	Actual
+s1	NYT_ENG_20130810.0221	6__3	944,948	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	9__5	1419,1423	meet	Contact_Meet	Other
+s1	NYT_ENG_20130810.0221	9__13	1453,1458	wrote	Contact_Broadcast	Actual
+s1	NYT_ENG_20130810.0221	13__11	1887,1892	march	Conflict_Demonstrate	Other
+s1	NYT_ENG_20130810.0221	14__9	1970,1979	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130810.0221	15__16	2149,2156	picking	Transaction_Transaction	Other
+s1	NYT_ENG_20130810.0221	15__19	2168,2173	rally	Conflict_Demonstrate	Other
+s1	NYT_ENG_20130810.0221	15__23	2180,2189	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130810.0221	15__24	2190,2194	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	16__20	2289,2293	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	16__43	2403,2411	violence	Conflict_Attack	Generic
+s1	NYT_ENG_20130810.0221	20__4	3018,3025	Victims	Life_Die	Actual
+s1	NYT_ENG_20130810.0221	20__7	3041,3045	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	21__2	3201,3205	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	23__2	3514,3518	says	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	24__3	3661,3665	says	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	25__2	3833,3837	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	27__4	4111,4115	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	29__26	4525,4529	said	Contact_Contact	Actual
+s1	NYT_ENG_20130810.0221	30__21	4681,4688	elected	Personnel_Elect	Generic
+@Coreference	C318	15__23,3__27,14__9
+@Coreference	C319	3,15,14
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131009.0136
+s1	NYT_ENG_20131009.0136	1__15	259,263	wins	Personnel_Elect	Actual
+s1	NYT_ENG_20131009.0136	1__31	349,353	talk	Contact_Contact	Other
+s1	NYT_ENG_20131009.0136	1__37	376,381	phone	Contact_Correspondence	Generic
+s1	NYT_ENG_20131009.0136	2__4	414,421	discuss	Contact_Meet	Actual
+s1	NYT_ENG_20131009.0136	2__17	484,496	conversation	Contact_Correspondence	Other
+s1	NYT_ENG_20131009.0136	3__16	597,601	meet	Contact_Meet	Other
+s1	NYT_ENG_20131009.0136	3__32	671,675	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131009.0136	3__36	688,694	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20131009.0136	5__22	834,839	leave	Movement_Transport-Person	Other
+s1	NYT_ENG_20131009.0136	6__5	868,880	conversation	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	7__5	897,900	ask	Contact_Contact	Other
+s1	NYT_ENG_20131009.0136	8__3	938,944	talked	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	9__2	964,968	said	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	12__2	1352,1355	met	Contact_Meet	Actual
+s1	NYT_ENG_20131009.0136	13__3	1473,1476	met	Contact_Meet	Actual
+s1	NYT_ENG_20131009.0136	16__31	2006,2013	elected	Personnel_Elect	Generic
+s1	NYT_ENG_20131009.0136	19__11	2334,2342	stoppage	Contact_Broadcast	Actual
+s1	NYT_ENG_20131009.0136	20__8	2469,2475	return	Movement_Transport-Person	Other
+s1	NYT_ENG_20131009.0136	21__6	2538,2546	skirmish	Conflict_Attack	Actual
+s1	NYT_ENG_20131009.0136	23__4	2705,2710	asked	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	23__9	2729,2733	left	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131009.0136	23__25	2813,2820	replied	Contact_Correspondence	Actual
+s1	NYT_ENG_20131009.0136	29__3	3219,3223	talk	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	29__8	3237,3242	talks	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	30__9	3337,3341	talk	Contact_Contact	Other
+s1	NYT_ENG_20131009.0136	33__9	3610,3614	said	Contact_Contact	Actual
+s1	NYT_ENG_20131009.0136	37__7	3848,3852	walk	Movement_Transport-Person	Other
+s1	NYT_ENG_20131009.0136	38__5	3887,3895	announce	Contact_Broadcast	Other
+s1	NYT_ENG_20131009.0136	40__4	4024,4027	met	Contact_Meet	Actual
+s1	NYT_ENG_20131009.0136	41__4	4143,4151	battling	Conflict_Attack	Actual
+s1	NYT_ENG_20131009.0136	42__5	4266,4273	message	Contact_Broadcast	Actual
+s1	NYT_ENG_20131009.0136	42__6	4274,4278	sent	Contact_Correspondence	Actual
+s1	NYT_ENG_20131009.0136	42__11	4300,4308	election	Personnel_Elect	Other
+@Coreference	C320	13__3,40__4,12__2
+@Coreference	C321	13,12,40
+@Coreference	C322	3__16,1__31,2__4,30__9,8__3
+@Coreference	C323	30,1,3,2,6,9,8
+@Coreference	C324	6__5,2__17
+@Coreference	C325	3__32,9__2
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130824_F00013HLN
+s1	ENG_NW_001278_20130824_F00013HLN	1__7	126,134	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__8	135,143	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__20	238,246	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__21	247,255	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__31	305,313	gangrape	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__32	314,322	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__52	408,416	gangrape	Conflict_Demonstrate	Generic
+s1	ENG_NW_001278_20130824_F00013HLN	1__55	426,434	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	1__71	519,527	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	2__13	607,613	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	2__42	750,754	went	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	4__8	960,968	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130824_F00013HLN	4__14	998,1007	confessed	Contact_Meet	Actual
+@Coreference	C326	1__31,1__52,1__20,1__7
+@Coreference	C327	1__32,1__55,1__21,4__8,1__8
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130729_F00013724
+s1	ENG_NW_001278_20130729_F00013724	2__15	562,565	pay	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20130729_F00013724	2__21	594,598	died	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00013724	3__21	781,789	carrying	Movement_Transport-Artifact	Actual
+s1	ENG_NW_001278_20130729_F00013724	4__9	883,888	crash	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00013724	4__10	889,893	died	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00013724	4__13	904,912	injuries	Life_Injure	Actual
+s1	ENG_NW_001278_20130729_F00013724	4__15	914,922	bringing	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00013724	4__17	927,932	death	Life_Die	Generic
+s1	ENG_NW_001278_20130729_F00013724	5__6	982,991	receiving	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130729_F00013724	5__30	1120,1124	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130729_F00013724	5__34	1136,1146	conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130729_F00013724	6__2	1156,1160	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130729_F00013724	6__15	1227,1235	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130729_F00013724	6__21	1263,1271	homicide	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00013724	6__39	1353,1359	injury	Life_Injure	Actual
+s1	ENG_NW_001278_20130729_F00013724	7__18	1468,1476	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130729_F00013724	7__21	1485,1493	admitted	Contact_Contact	Actual
+s1	ENG_NW_001278_20130729_F00013724	7__22	1494,1503	traveling	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00013724	8__18	1692,1696	told	Contact_Meet	Actual
+s1	ENG_NW_001278_20130729_F00013724	8__30	1766,1770	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130729_F00013724	9__9	1814,1821	leaving	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130729_F00013724	10__4	1957,1966	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130729_F00013724	12__13	2161,2169	collided	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130729_F00013724	12__18	2182,2189	killing	Life_Die	Actual
+s1	ENG_NW_001278_20130729_F00013724	12__21	2197,2205	injuring	Life_Injure	Actual
+@Coreference	C328	4__17,4__10,2__21
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130521_F000124T2
+s1	ENG_NW_001278_20130521_F000124T2	1__29	305,309	sent	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130521_F000124T2	1__41	377,383	deadly	Life_Die	Generic
+s1	ENG_NW_001278_20130521_F000124T2	2__23	546,554	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130521_F000124T2	3__15	645,652	killing	Life_Die	Actual
+s1	ENG_NW_001278_20130521_F000124T2	3__21	676,684	injuring	Life_Injure	Actual
+s1	ENG_NW_001278_20130521_F000124T2	3__28	716,720	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130521_F000124T2	4__8	763,770	injured	Life_Injure	Actual
+s1	ENG_NW_001278_20130521_F000124T2	4__18	828,838	assistance	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20130521_F000124T2	5__8	892,896	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130521_F000124T2	5__14	918,929	consignment	Transaction_Transfer-Ownership	Generic
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131011.0094
+s1	NYT_ENG_20131011.0094	6__6	799,806	ringing	Contact_Contact	Actual
+s1	NYT_ENG_20131011.0094	6__11	824,828	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131011.0094	6__23	876,880	lost	Personnel_End-Position	Actual
+s1	NYT_ENG_20131011.0094	7__6	984,993	answering	Contact_Correspondence	Other
+s1	NYT_ENG_20131011.0094	8__10	1073,1083	furloughed	Personnel_End-Position	Other
+s1	NYT_ENG_20131011.0094	8__56	1331,1334	die	Life_Die	Generic
+s1	NYT_ENG_20131011.0094	10__30	1722,1726	paid	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131011.0094	11__45	1992,1998	repaid	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131011.0094	12__10	2055,2059	said	Contact_Contact	Actual
+s1	NYT_ENG_20131011.0094	14__6	2240,2244	cost	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131011.0094	14__13	2275,2283	spending	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20131011.0094	14__18	2300,2306	report	Contact_Broadcast	Actual
+s1	NYT_ENG_20131011.0094	15__2	2419,2425	report	Contact_Broadcast	Actual
+s1	NYT_ENG_20131011.0094	15__8	2457,2464	costing	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20131011.0094	16__13	2585,2589	said	Contact_Contact	Actual
+s1	NYT_ENG_20131011.0094	18__7	2741,2751	protesters	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20131011.0094	18__8	2752,2759	climbed	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131011.0094	18__14	2785,2791	walked	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131011.0094	19__2	2818,2825	protest	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20131011.0094	19__3	2826,2831	march	Conflict_Demonstrate	Actual
+s1	NYT_ENG_20131011.0094	20__2	2865,2873	protests	Conflict_Demonstrate	Actual
+@Coreference	C329	14__18,15__2
+@Coreference	C330	15,14
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130418_F00012ERM
+s1	ENG_NW_001278_20130418_F00012ERM	1__8	148,156	violence	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130418_F00012ERM	1__20	280,288	violence	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130418_F00012ERM	1__37	380,389	denounced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	1__41	413,421	violence	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130418_F00012ERM	2__6	558,565	violent	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130418_F00012ERM	4__7	690,696	attack	Conflict_Attack	Other
+s1	ENG_NW_001278_20130418_F00012ERM	4__15	734,738	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	4__18	748,753	visit	Contact_Meet	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	5__11	866,876	protestors	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	7__6	1131,1139	violence	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130418_F00012ERM	8__6	1244,1252	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	8__14	1289,1295	attack	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	9__3	1354,1367	demonstrators	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	9__24	1484,1494	questioned	Contact_Meet	Actual
+s1	ENG_NW_001278_20130418_F00012ERM	11__1	1745,1753	Returned	Movement_Transport-Person	Actual
+@Coreference	C331	7__6,1__41,1__20,1__8
+@Coreference	C332	4__7,8__14
+@Coreference	C333	8,4
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131112.0230
+s1	NYT_ENG_20131112.0230	1__6	200,204	STEP	Personnel_End-Position	Other
+s1	NYT_ENG_20131112.0230	1__23	301,305	told	Contact_Contact	Actual
+s1	NYT_ENG_20131112.0230	1__29	327,334	meeting	Contact_Meet	Actual
+s1	NYT_ENG_20131112.0230	1__35	360,367	leaving	Movement_Transport-Person	Other
+s1	NYT_ENG_20131112.0230	2__4	414,421	meeting	Contact_Meet	Actual
+s1	NYT_ENG_20131112.0230	2__7	433,437	said	Contact_Contact	Actual
+s1	NYT_ENG_20131112.0230	2__10	448,454	choked	Conflict_Attack	Actual
+s1	NYT_ENG_20131112.0230	2__13	462,471	described	Contact_Broadcast	Actual
+s1	NYT_ENG_20131112.0230	3__4	525,534	departure	Personnel_End-Position	Actual
+s1	NYT_ENG_20131112.0230	3__7	545,553	reported	Contact_Broadcast	Actual
+s1	NYT_ENG_20131112.0230	4__3	610,615	hired	Personnel_Start-Position	Actual
+s1	NYT_ENG_20131112.0230	6__4	835,842	respond	Contact_Contact	Other
+s1	NYT_ENG_20131112.0230	6__7	848,855	request	Contact_Contact	Other
+s1	NYT_ENG_20131112.0230	7__8	910,918	announce	Contact_Broadcast	Other
+@Coreference	C336	1,2
+@Coreference	C334	2__4,1__29
+@Coreference	C335	1__6,1__35
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20131210.0244
+s1	NYT_ENG_20131210.0244	1__3	180,187	DELIVER	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131210.0244	1__4	188,191	AID	Transaction_Transaction	Other
+s1	NYT_ENG_20131210.0244	1__20	297,307	deliveries	Movement_Transport-Artifact	Actual
+s1	NYT_ENG_20131210.0244	1__41	412,422	assistance	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131210.0244	1__47	448,452	said	Contact_Contact	Actual
+s1	NYT_ENG_20131210.0244	2__2	474,481	airlift	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131210.0244	2__19	583,593	delivering	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131210.0244	2__23	609,619	assistance	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131210.0244	3__13	906,916	assistance	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20131210.0244	3__18	936,944	conflict	Conflict_Attack	Actual
+s1	NYT_ENG_20131210.0244	4__20	1102,1106	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20131210.0244	4__42	1228,1234	driven	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131210.0244	4__47	1255,1263	fighting	Conflict_Attack	Actual
+s1	NYT_ENG_20131210.0244	5__8	1316,1326	delivering	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131210.0244	5__13	1350,1358	conflict	Conflict_Attack	Actual
+s1	NYT_ENG_20131210.0244	5__19	1392,1402	complained	Contact_Contact	Actual
+s1	NYT_ENG_20131210.0244	5__31	1475,1484	obtaining	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20131210.0244	5__41	1549,1557	fighting	Conflict_Attack	Actual
+s1	NYT_ENG_20131210.0244	6__12	1714,1718	meet	Contact_Meet	Other
+s1	NYT_ENG_20131210.0244	6__45	1893,1900	meeting	Contact_Meet	Actual
+s1	NYT_ENG_20131210.0244	7__19	2020,2029	displaced	Movement_Transport-Person	Actual
+s1	NYT_ENG_20131210.0244	8__5	2130,2134	tell	Contact_Broadcast	Other
+s1	NYT_ENG_20131210.0244	8__13	2182,2191	conflicts	Conflict_Attack	Actual
+s1	NYT_ENG_20131210.0244	9__6	2324,2328	warn	Contact_Contact	Other
+@Coreference	C337	5__8,2__19,1__3
+@Coreference	C338	1__41,2__23
+@Coreference	C339	1,3,2,5,4
+@Coreference	C340	5__13,3__18
+@Coreference	C341	4__47,5__41
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130114_F000126ZX
+s1	ENG_NW_001278_20130114_F000126ZX	1__4	112,126	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	1__9	145,152	protest	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	1__15	226,240	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	1__20	259,266	protest	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	1__36	336,346	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	1__47	399,406	protest	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	2__35	685,699	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	3__15	778,788	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	3__19	806,813	marches	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	5__15	970,976	walked	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	5__28	1043,1053	protestors	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	7__37	1442,1449	protest	Conflict_Demonstrate	Generic
+s1	ENG_NW_001278_20130114_F000126ZX	7__40	1461,1465	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130114_F000126ZX	9__3	1617,1625	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130114_F000126ZX	9__9	1664,1672	promised	Contact_Broadcast	Actual
+@Coreference	C344	1,7
+@Coreference	C342	1__15,1__4,2__35
+@Coreference	C343	1__9,3__15,7__37,1__36,1__20,1__47
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20131107_F00011ZKV
+s1	ENG_NW_001278_20131107_F00011ZKV	1__56	406,410	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	2__13	644,651	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	2__17	664,672	briefing	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	3__4	819,827	crossing	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	4__20	976,980	flee	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20131107_F00011ZKV	4__33	1047,1055	genocide	Life_Die	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	5__28	1221,1225	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	7__6	1316,1320	fled	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	7__44	1521,1525	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	8__13	1592,1599	respond	Contact_Meet	Other
+s1	ENG_NW_001278_20131107_F00011ZKV	9__11	1827,1838	distributed	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	12__37	2431,2435	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	13__4	2471,2484	contributions	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	13__33	2641,2645	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20131107_F00011ZKV	16__25	3244,3251	deliver	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20131107_F00011ZKV	16__27	3265,3275	assistance	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20131107_F00011ZKV	17__22	3428,3431	aid	Transaction_Transaction	Generic
+s1	ENG_NW_001278_20131107_F00011ZKV	18__12	3529,3534	reach	Contact_Correspondence	Other
+s1	ENG_NW_001278_20131107_F00011ZKV	20__4	3789,3793	date	Contact_Meet	Other
+s1	ENG_NW_001278_20131107_F00011ZKV	21__11	3911,3922	distributed	Transaction_Transfer-Ownership	Actual
+@Coreference	C345	5__28,1__56
+@Coreference	C346	1,5
+@Coreference	C347	2__13,2__17
+@Coreference	C348	21__11,9__11
+@Coreference	C349	9,21
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130720.0209
+s1	NYT_ENG_20130720.0209	4__9	521,524	pay	Transaction_Transfer-Money	Actual
+s1	NYT_ENG_20130720.0209	7__19	1023,1031	exchange	Transaction_Transaction	Generic
+s1	NYT_ENG_20130720.0209	9__20	1230,1234	rent	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130720.0209	10__5	1280,1284	paid	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130720.0209	12__14	1542,1550	purchase	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130720.0209	13__60	1909,1912	say	Contact_Contact	Actual
+s1	NYT_ENG_20130720.0209	13__61	1913,1919	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20130720.0209	14__34	2186,2196	interviews	Contact_Contact	Generic
+s1	NYT_ENG_20130720.0209	15__27	2384,2387	pay	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130720.0209	16__8	2436,2442	bought	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130720.0209	16__20	2508,2515	traders	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20130720.0209	17__3	2553,2557	says	Contact_Contact	Actual
+s1	NYT_ENG_20130720.0209	19__2	2937,2947	interviews	Contact_Contact	Generic
+s1	NYT_ENG_20130720.0209	19__7	2973,2979	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20130720.0209	20__10	3240,3244	said	Contact_Contact	Actual
+s1	NYT_ENG_20130720.0209	22__2	3380,3384	pays	Transaction_Transfer-Money	Other
+@Coreference	C350	15__27,4__9
+@Coreference	C351	15,4
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130925_F000129AX
+s1	ENG_NW_001278_20130925_F000129AX	1__52	475,480	rally	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130925_F000129AX	1__71	587,591	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130925_F000129AX	3__25	944,950	quoted	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130925_F000129AX	3__28	960,966	saying	Contact_Contact	Actual
+s1	ENG_NW_001278_20130925_F000129AX	4__6	1002,1010	escorted	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130925_F000129AX	4__12	1040,1047	arrived	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130925_F000129AX	5__2	1109,1114	hired	Personnel_Start-Position	Actual
+s1	ENG_NW_001278_20130925_F000129AX	5__11	1161,1169	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130925_F000129AX	6__4	1220,1228	detained	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130925_F000129AX	6__15	1282,1289	protest	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130925_F000129AX	7__2	1405,1412	insists	Contact_Contact	Actual
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130828.0109
+s1	NYT_ENG_20130828.0109	1__23	330,335	death	Life_Die	Generic
+s1	NYT_ENG_20130828.0109	2__10	481,485	died	Life_Die	Actual
+s1	NYT_ENG_20130828.0109	2__15	503,507	said	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	3__8	581,589	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	7__27	906,915	shootings	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	8__12	977,981	told	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	8__15	988,991	get	Movement_Transport-Person	Other
+s1	NYT_ENG_20130828.0109	10__15	1225,1229	said	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	10__18	1237,1241	told	Contact_Broadcast	Actual
+s1	NYT_ENG_20130828.0109	10__21	1251,1255	tour	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130828.0109	10__33	1317,1323	killed	Life_Die	Actual
+s1	NYT_ENG_20130828.0109	10__36	1332,1337	razed	Transaction_Transfer-Ownership	Other
+s1	NYT_ENG_20130828.0109	11__6	1401,1408	confirm	Contact_Broadcast	Other
+s1	NYT_ENG_20130828.0109	12__2	1419,1425	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20130828.0109	13__22	1641,1648	threats	Contact_Contact	Generic
+s1	NYT_ENG_20130828.0109	13__25	1660,1665	trial	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	17__18	2251,2254	War	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	18__11	2314,2322	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	18__25	2383,2391	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	19__7	2433,2439	killed	Life_Die	Actual
+s1	NYT_ENG_20130828.0109	19__26	2529,2537	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	20__4	2572,2577	death	Life_Die	Generic
+s1	NYT_ENG_20130828.0109	20__20	2648,2654	flight	Movement_Transport-Person	Other
+s1	NYT_ENG_20130828.0109	21__18	2753,2761	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	21__28	2802,2806	Jail	Justice_Arrest-Jail	Actual
+s1	NYT_ENG_20130828.0109	22__4	2835,2840	flown	Movement_Transport-Person	Other
+s1	NYT_ENG_20130828.0109	23__9	2940,2946	former	Personnel_End-Position	Actual
+s1	NYT_ENG_20130828.0109	23__16	2979,2983	said	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	29__16	3397,3405	shooting	Conflict_Attack	Actual
+s1	NYT_ENG_20130828.0109	30__15	3506,3510	said	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	30__24	3552,3560	provided	Contact_Contact	Other
+s1	NYT_ENG_20130828.0109	31__13	3665,3669	said	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	31__33	3766,3773	collect	Transaction_Transfer-Money	Other
+s1	NYT_ENG_20130828.0109	33__3	3930,3934	said	Contact_Contact	Actual
+s1	NYT_ENG_20130828.0109	33__16	3998,4006	memorial	Contact_Meet	Actual
+s1	NYT_ENG_20130828.0109	35__12	4166,4171	death	Life_Die	Other
+s1	NYT_ENG_20130828.0109	35__20	4206,4211	trial	Conflict_Attack	Actual
+@Coreference	C352	10__21,20__20
+@Coreference	C354	23__9,12__2
+@Coreference	C355	12,23
+@Coreference	C356	35__20,13__25
+@Coreference	C357	13,35
+@Coreference	C361	10__15,8__12,10__18,2__15
+@Coreference	C362	2__10,18__25,19__26,21__18,18__11,29__16,7__27,20__4,10__33,3__8,1__23
+@Coreference	C363	10,20,21,19,29,1,3,2,7
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130731_F00012PX6
+s1	ENG_NW_001278_20130731_F00012PX6	1__55	403,413	assistance	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20130731_F00012PX6	1__62	450,454	fled	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	1__79	550,554	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	2__44	808,812	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	2__49	829,837	briefing	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	3__16	925,933	provided	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	3__22	963,973	assistance	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130731_F00012PX6	3__29	996,1000	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	5__9	1405,1413	provided	Contact_Contact	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	5__29	1517,1521	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130731_F00012PX6	6__10	1563,1572	airlifted	Movement_Transport-Person	Actual
+@Coreference	C364	3__22,1__55
+@Coreference	C365	1,3,5
+@Coreference	C366	5__9,3__16
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130523.0220
+s1	NYT_ENG_20130523.0220	1__2	178,182	SAYS	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	1__7	203,211	DIALOGUE	Contact_Contact	Other
+s1	NYT_ENG_20130523.0220	1__19	291,295	said	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	1__26	324,332	proposal	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	1__34	355,363	dialogue	Contact_Contact	Other
+s1	NYT_ENG_20130523.0220	1__41	389,397	reported	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	2__2	421,429	comments	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	2__4	435,443	reported	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	2__8	459,462	met	Contact_Meet	Actual
+s1	NYT_ENG_20130523.0220	3__3	618,624	quoted	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	3__5	628,634	saying	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	3__12	669,674	talks	Contact_Contact	Other
+s1	NYT_ENG_20130523.0220	3__18	700,707	removal	Movement_Transport-Artifact	Other
+s1	NYT_ENG_20130523.0220	5__4	843,850	arrived	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130523.0220	5__41	1011,1015	says	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	6__14	1133,1138	talks	Contact_Contact	Other
+s1	NYT_ENG_20130523.0220	6__18	1151,1156	strip	Movement_Transport-Artifact	Other
+s1	NYT_ENG_20130523.0220	7__2	1198,1203	talks	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	7__25	1315,1321	walked	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130523.0220	8__17	1425,1430	pleas	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	9__6	1472,1478	quoted	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	10__5	1647,1654	reports	Contact_Broadcast	Other
+s1	NYT_ENG_20130523.0220	10__10	1670,1677	meeting	Contact_Meet	Other
+s1	NYT_ENG_20130523.0220	11__3	1772,1780	meetings	Contact_Meet	Actual
+s1	NYT_ENG_20130523.0220	12__5	1905,1908	met	Contact_Meet	Actual
+s1	NYT_ENG_20130523.0220	13__6	2035,2039	said	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	13__8	2045,2052	visited	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130523.0220	14__4	2110,2116	advice	Contact_Correspondence	Actual
+s1	NYT_ENG_20130523.0220	15__3	2270,2275	visit	Contact_Meet	Actual
+s1	NYT_ENG_20130523.0220	16__2	2340,2343	say	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	17__25	2562,2565	say	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	18__17	2642,2646	said	Contact_Broadcast	Actual
+s1	NYT_ENG_20130523.0220	19__23	2779,2783	said	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	20__2	2867,2871	said	Contact_Contact	Actual
+s1	NYT_ENG_20130523.0220	20__4	2876,2881	visit	Contact_Meet	Actual
+@Coreference	C367	20__4,15__3
+@Coreference	C368	20,15
+@Coreference	C369	1__7,7__2,1__2,6__14,5__41,3__12,3__5,1__34,2__2,1__19
+@Coreference	C370	1__41,2__4
+@Coreference	C371	2__8,12__5,10__10
+@Coreference	C372	10,12,2,5
+@Coreference	C373	5__4,3__18
+@Coreference	C374	3__3,9__6
+@Coreference	C375	9,3,7,6
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130710_F00011RM9
+s1	ENG_NW_001278_20130710_F00011RM9	1__3	101,106	Death	Life_Die	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	1__10	136,144	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	2__1	198,203	Death	Life_Die	Generic
+s1	ENG_NW_001278_20130710_F00011RM9	2__8	233,241	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	2__12	256,261	Death	Life_Die	Generic
+s1	ENG_NW_001278_20130710_F00011RM9	2__19	291,299	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	2__31	342,347	Death	Life_Die	Generic
+s1	ENG_NW_001278_20130710_F00011RM9	2__38	377,385	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	2__46	425,429	died	Life_Die	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	2__49	437,443	wounds	Life_Injure	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	2__55	470,474	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	3__9	509,515	beaten	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	3__18	577,585	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	3__20	587,591	died	Life_Die	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	3__23	601,609	injuries	Life_Injure	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	3__29	637,645	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	4__2	656,662	joined	Personnel_Start-Position	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	4__4	667,681	demonstrations	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	4__20	778,786	attacked	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	4__35	846,850	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	4__37	855,861	report	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	4__46	904,912	arrested	Justice_Arrest-Jail	Other
+s1	ENG_NW_001278_20130710_F00011RM9	5__4	933,941	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	5__20	1016,1023	injured	Life_Injure	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	6__2	1067,1075	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	6__14	1133,1139	sit-in	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	7__1	1311,1318	Clashes	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	7__5	1338,1348	protesters	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	7__9	1368,1374	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130710_F00011RM9	7__20	1423,1430	injured	Life_Injure	Actual
+@Coreference	C376	2__38,2__19,5__4,6__2,2__8,1__10,3__18
+@Coreference	C377	2__12,2__1,2__46,1__3,2__31
+@Coreference	C378	1,3,5,4,6
+@Coreference	C379	4__37,3__29
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130118_F000138PA
+s1	ENG_NW_001278_20130118_F000138PA	1__6	116,123	discuss	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	1__17	218,225	discuss	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	1__27	282,289	discuss	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	1__48	403,408	spoke	Contact_Meet	Actual
+s1	ENG_NW_001278_20130118_F000138PA	1__74	552,556	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	1__77	562,571	statement	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130118_F000138PA	2__4	598,610	conversation	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	2__13	653,657	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	3__3	810,814	call	Contact_Correspondence	Actual
+s1	ENG_NW_001278_20130118_F000138PA	3__14	875,882	assault	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130118_F000138PA	3__26	939,948	kidnapped	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130118_F000138PA	4__7	1111,1119	reported	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130118_F000138PA	6__6	1366,1371	taken	Transaction_Transfer-Ownership	Actual
+s1	ENG_NW_001278_20130118_F000138PA	7__7	1507,1511	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130118_F000138PA	7__26	1604,1617	contributions	Transaction_Transfer-Money	Actual
+@Coreference	C380	1__6,1__17,1__27
+@Coreference	C381	1__77,2__13,1__48,1__74
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130109_F00011TB4
+s1	ENG_NW_001278_20130109_F00011TB4	1__8	129,135	elects	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	1__18	228,234	elects	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	1__26	279,285	elects	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	1__47	395,402	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	1__64	493,501	election	Personnel_Elect	Other
+s1	ENG_NW_001278_20130109_F00011TB4	2__20	617,624	elected	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	3__23	806,815	resigning	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	3__33	865,873	election	Personnel_Elect	Generic
+s1	ENG_NW_001278_20130109_F00011TB4	4__16	959,966	stepped	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130109_F00011TB4	4__20	981,989	election	Personnel_Elect	Other
+@Coreference	C384	1,3,2,4
+@Coreference	C382	1__26,1__8,1__18,1__47
+@Coreference	C383	3__33,1__64,4__20,2__20
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130514_F00012ICP
+s1	ENG_NW_001278_20130514_F00012ICP	1__5	115,121	sacked	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	1__11	188,194	sacked	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	1__24	240,246	Former	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	1__33	297,303	sacked	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	2__2	347,356	dismissal	Personnel_End-Position	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	3__2	507,510	won	Personnel_Elect	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	4__35	741,745	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	5__5	775,782	appoint	Personnel_Start-Position	Other
+s1	ENG_NW_001278_20130514_F00012ICP	5__9	801,810	confirmed	Contact_Contact	Actual
+s1	ENG_NW_001278_20130514_F00012ICP	6__14	945,951	sacked	Personnel_End-Position	Actual
+@Coreference	C385	1__33,1__5,6__14,1__11
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130119_F00013FLV
+s1	ENG_NW_001278_20130119_F00013FLV	2__5	567,577	Conference	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	2__27	700,708	violence	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	3__4	787,791	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	4__22	954,961	elected	Personnel_Elect	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	4__24	965,974	appointed	Personnel_Start-Position	Other
+s1	ENG_NW_001278_20130119_F00013FLV	5__9	1169,1173	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	6__17	1365,1374	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	6__27	1434,1439	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	7__20	1606,1610	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	8__27	1786,1789	buy	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	8__32	1798,1802	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	9__5	1839,1846	sellers	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130119_F00013FLV	9__15	1896,1901	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	10__10	2006,2014	violence	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	10__23	2088,2096	shooting	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	10__25	2102,2108	killed	Life_Die	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	11__33	2338,2345	assault	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	11__50	2444,2449	sales	Transaction_Transfer-Ownership	Generic
+s1	ENG_NW_001278_20130119_F00013FLV	12__5	2474,2483	assembled	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	12__21	2566,2574	massacre	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130119_F00013FLV	13__12	2786,2790	meet	Contact_Meet	Other
+s1	ENG_NW_001278_20130119_F00013FLV	13__19	2825,2833	hearings	Contact_Meet	Actual
+@Coreference	C386	2__27,10__10
+@Coreference	C387	10,2
+@Coreference	C388	9__15,6__27,11__50
+@Coreference	C389	11,9,6
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130103_F00013C17
+s1	ENG_NW_001278_20130103_F00013C17	1__17	178,182	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	1__34	305,309	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	1__49	388,392	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	1__74	513,517	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	1__94	629,638	execution	Life_Die	Other
+s1	ENG_NW_001278_20130103_F00013C17	2__18	734,738	rape	Conflict_Attack	Other
+s1	ENG_NW_001278_20130103_F00013C17	2__32	796,801	raped	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	2__34	806,814	tortured	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	2__46	879,887	throwing	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	2__48	892,897	dying	Life_Die	Actual
+s1	ENG_NW_001278_20130103_F00013C17	3__2	957,961	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130103_F00013C17	3__16	1025,1031	pulled	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130103_F00013C17	4__3	1081,1085	died	Life_Die	Actual
+s1	ENG_NW_001278_20130103_F00013C17	4__27	1225,1235	assaulters	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	4__32	1249,1255	hailed	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130103_F00013C17	5__6	1324,1330	murder	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130103_F00013C17	5__9	1337,1341	rape	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130103_F00013C17	5__12	1353,1360	assault	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130103_F00013C17	5__14	1362,1372	kidnapping	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130103_F00013C17	5__16	1374,1385	destruction	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	6__15	1579,1587	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130103_F00013C17	7__23	1714,1718	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130103_F00013C17	9__36	2102,2110	protests	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130103_F00013C17	10__8	2214,2216	up	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	10__23	2284,2293	delivered	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130103_F00013C17	11__28	2490,2497	rapists	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130103_F00013C17	12__16	2602,2608	victim	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	12__21	2627,2631	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	13__11	2698,2706	proposal	Contact_Contact	Actual
+s1	ENG_NW_001278_20130103_F00013C17	14__3	2842,2846	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	14__19	2925,2932	protest	Conflict_Demonstrate	Actual
+s1	ENG_NW_001278_20130103_F00013C17	14__22	2947,2952	rapes	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130103_F00013C17	14__25	2963,2971	violence	Conflict_Attack	Generic
+@Coreference	C390	5__9,1__74,14__22,2__18,12__21,1__17,1__49,14__3,1__34,2__32
+@Coreference	C391	1__94,2__48,4__3
+@Coreference	C392	1,2,4
+@Coreference	C393	12,5
+@Coreference	C394	14__19,6__15,9__36
+@Coreference	C395	9,14,6
+#EndOfDocument
+#BeginOfDocument NYT_ENG_20130723.0139
+s1	NYT_ENG_20130723.0139	4__10	516,520	came	Movement_Transport-Person	Actual
+s1	NYT_ENG_20130723.0139	4__20	564,574	questioned	Contact_Contact	Actual
+s1	NYT_ENG_20130723.0139	4__38	683,692	transport	Movement_Transport-Person	Generic
+s1	NYT_ENG_20130723.0139	5__44	990,994	paid	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130723.0139	9__4	1541,1548	Trading	Transaction_Transfer-Ownership	Generic
+s1	NYT_ENG_20130723.0139	10__6	1658,1666	hearings	Contact_Meet	Actual
+s1	NYT_ENG_20130723.0139	10__7	1667,1673	warned	Contact_Broadcast	Actual
+s1	NYT_ENG_20130723.0139	10__22	1769,1773	ship	Movement_Transport-Artifact	Generic
+s1	NYT_ENG_20130723.0139	11__15	2001,2009	shipping	Movement_Transport-Artifact	Generic
+s1	NYT_ENG_20130723.0139	11__30	2086,2090	said	Contact_Contact	Actual
+s1	NYT_ENG_20130723.0139	12__8	2153,2160	testify	Contact_Meet	Other
+s1	NYT_ENG_20130723.0139	13__3	2255,2264	statement	Contact_Broadcast	Actual
+s1	NYT_ENG_20130723.0139	13__10	2296,2300	said	Contact_Contact	Actual
+s1	NYT_ENG_20130723.0139	13__38	2442,2455	manufacturing	Manufacture_Artifact	Generic
+s1	NYT_ENG_20130723.0139	15__20	2719,2723	told	Contact_Contact	Actual
+s1	NYT_ENG_20130723.0139	15__39	2828,2834	moving	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130723.0139	15__44	2865,2874	financing	Transaction_Transfer-Money	Generic
+s1	NYT_ENG_20130723.0139	16__4	2931,2937	seized	Transaction_Transfer-Ownership	Actual
+s1	NYT_ENG_20130723.0139	17__21	3085,3089	said	Contact_Contact	Actual
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130310_F00012448
+s1	ENG_NW_001278_20130310_F00012448	1__45	331,335	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130310_F00012448	1__49	353,357	owed	Transaction_Transfer-Money	Actual
+s1	ENG_NW_001278_20130310_F00012448	1__67	450,457	lenders	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130310_F00012448	2__3	492,499	remarks	Contact_Contact	Actual
+s1	ENG_NW_001278_20130310_F00012448	2__13	554,561	session	Contact_Meet	Actual
+s1	ENG_NW_001278_20130310_F00012448	2__25	612,621	announced	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130310_F00012448	4__12	1014,1026	construction	Manufacture_Artifact	Actual
+s1	ENG_NW_001278_20130310_F00012448	4__21	1060,1064	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130310_F00012448	4__33	1118,1127	financing	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130310_F00012448	5__19	1242,1254	construction	Manufacture_Artifact	Generic
+s1	ENG_NW_001278_20130310_F00012448	5__44	1359,1371	construction	Manufacture_Artifact	Actual
+s1	ENG_NW_001278_20130310_F00012448	7__4	1549,1559	statements	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130310_F00012448	9__4	1862,1875	restructuring	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130310_F00012448	9__26	2018,2027	transport	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20130310_F00012448	9__44	2141,2155	transportation	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130310_F00012448	9__45	2156,2164	dispatch	Contact_Contact	Other
+s1	ENG_NW_001278_20130310_F00012448	10__6	2292,2300	promised	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130310_F00012448	10__13	2336,2340	owed	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20130310_F00012448	11__7	2435,2439	laid	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130310_F00012448	11__8	2440,2443	off	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130310_F00012448	11__16	2475,2479	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130310_F00012448	13__9	2703,2708	train	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20130310_F00012448	13__10	2709,2714	fares	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130310_F00012448	13__17	2740,2744	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130310_F00012448	13__21	2763,2767	fare	Transaction_Transfer-Money	Generic
+s1	ENG_NW_001278_20130310_F00012448	14__2	2796,2800	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130310_F00012448	16__6	2985,2992	revenue	Transaction_Transfer-Money	Other
+s1	ENG_NW_001278_20130310_F00012448	17__18	3160,3167	session	Contact_Meet	Other
+@Coreference	C400	2__13,4__33,10__13,5__44,4__12,1__49,17__18,5__19
+@Coreference	C396	2__3,4__21,1__45
+@Coreference	C398	1,10,2,17
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130828_F00011S1X
+s1	ENG_NW_001278_20130828_F00011S1X	1__6	117,123	arrive	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	1__17	213,219	arrive	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	1__27	271,277	arrive	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	1__54	421,428	arrived	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	1__65	475,479	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	2__22	584,588	meet	Contact_Meet	Other
+s1	ENG_NW_001278_20130828_F00011S1X	2__31	642,649	fleeing	Movement_Transport-Person	Generic
+s1	ENG_NW_001278_20130828_F00011S1X	2__33	654,662	violence	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	2__37	676,684	crossing	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	2__48	740,744	told	Contact_Contact	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	2__54	766,774	briefing	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	4__5	1013,1024	distributed	Transaction_Transfer-Ownership	Other
+s1	ENG_NW_001278_20130828_F00011S1X	5__8	1137,1144	crossed	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	5__21	1204,1208	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	6__4	1318,1325	release	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	6__14	1364,1371	arrived	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	6__18	1390,1401	transferred	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	7__13	1553,1559	arrive	Movement_Transport-Person	Other
+s1	ENG_NW_001278_20130828_F00011S1X	8__6	1714,1718	fled	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	8__13	1748,1756	conflict	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	9__4	1882,1885	war	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	9__13	1944,1948	oust	Personnel_End-Position	Other
+s1	ENG_NW_001278_20130828_F00011S1X	9__22	1991,1997	deaths	Life_Die	Actual
+s1	ENG_NW_001278_20130828_F00011S1X	9__35	2063,2067	flee	Movement_Transport-Person	Actual
+@Coreference	C401	1__6,2__31,6__14,2__37,7__13,1__17,1__27,8__6,1__54
+@Coreference	C402	1__65,2__48
+@Coreference	C403	8,2
+#EndOfDocument
+#BeginOfDocument ENG_NW_001278_20130113_F00013PQC
+s1	ENG_NW_001278_20130113_F00013PQC	1__4	108,114	arrest	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	1__16	217,223	arrest	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	1__26	281,287	arrest	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	1__47	388,396	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	1__76	549,557	gangrape	Conflict_Demonstrate	Generic
+s1	ENG_NW_001278_20130113_F00013PQC	1__90	634,638	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	3__17	823,831	abducted	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	3__35	928,932	rape	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	3__38	944,951	dumping	Transaction_Transaction	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	3__47	988,992	said	Contact_Broadcast	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	4__8	1057,1065	arrested	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	4__11	1072,1079	manhunt	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	4__34	1187,1191	said	Contact_Contact	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	6__8	1362,1369	boarded	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	6__21	1427,1433	beaten	Conflict_Attack	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	6__26	1462,1468	thrown	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	7__11	1548,1556	injuries	Life_Injure	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	7__21	1599,1604	flown	Movement_Transport-Person	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	8__8	1728,1735	custody	Justice_Arrest-Jail	Actual
+s1	ENG_NW_001278_20130113_F00013PQC	8__10	1743,1747	rape	Conflict_Attack	Generic
+s1	ENG_NW_001278_20130113_F00013PQC	8__12	1752,1758	murder	Life_Die	Generic
+s1	ENG_NW_001278_20130113_F00013PQC	8__20	1803,1808	death	Life_Die	Generic
+s1	ENG_NW_001278_20130113_F00013PQC	8__21	1809,1816	penalty	Life_Die	Generic
+@Coreference	C404	1__4,1__26,1__16,1__47
+@Coreference	C405	8__10,3__35
+@Coreference	C406	8,3
+#EndOfDocument
