@@ -9,6 +9,6 @@
 
 
 # Files format
-- Scores:
+- Coreference Scores: Run generate_coref_scores.py 
   OrderedDict([FileName:OrderedDict([Event_Key:OrderedDict([prev_event_key_1: score_1, prev_key_2:score_2)])...])
 
