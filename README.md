@@ -15,5 +15,18 @@
   
 - Get Subevents using get_subevents.py
 
+- For sentence similarity:
+Use:
+```python
+def _get_sim(emb1, emb2):
+    inn = (emb1 * emb2).sum(axis=1)
+    emb1norm = np.sqrt((emb1 * emb1).sum(axis=1))
+    emb2norm = np.sqrt((emb2 * emb2).sum(axis=1))
+    scores = inn / emb1norm / emb2norm
+    return scores
+```
+###### where emb_1 and emb_2 are generated based on PrincetonML/SIF Project
+Format: Dict{Filename:{previoussentence__currentsentence: score}}
+
 
 
