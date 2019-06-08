@@ -10,8 +10,7 @@
 
 # Files format
 - Coreference Scores:
-  ###### (Include Models from TAC-KBP-2017-Participation Project)
-  OrderedDict([FileName:OrderedDict([Event_Key:OrderedDict([prev_event_key_1: score_1, prev_key_2:score_2)])...])
+  ###### OrderedDict([FileName:OrderedDict([Event_Key:OrderedDict([prev_event_key_1: score_1, prev_key_2:score_2)])...])
   
 - Get Subevents using get_subevents.py
 
